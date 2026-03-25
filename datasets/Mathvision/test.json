@@ -1,0 +1,4318 @@
+{
+  "2241": {
+    "id": "2241",
+    "question": "A square piece of paper has side length $1$ and vertices $A,B,C,$ and $D$ in that order. As shown in the figure, the paper is folded so that vertex $C$ meets edge $\\overline{AD}$ at point $C'$, and edge $\\overline{BC}$ intersects edge $\\overline{AB}$ at point $E$. Suppose that $C'D=\\frac{1}{3}$. What is the perimeter of $\\triangle AEC'$?\n\n<image1>",
+    "options": [
+      "$2$",
+      "$1+\\frac{2}{3}\\sqrt{3}$",
+      "$\\frac{13}{6}$",
+      "$1+\\frac{3}{4}\\sqrt{3}$",
+      "$\\frac{7}{3}$"
+    ],
+    "answer": "A",
+    "image": "images/2241.jpg"
+  },
+  "2243": {
+    "id": "2243",
+    "question": "Arjun and Beth play a game in which they take turns removing one brick or two adjacent bricks from one \"wall\" among a set of several walls of bricks, with gaps possibly creating new walls. The walls are one brick tall. For example, a set of walls of sizes $4$ and $2$ can be changed into any of the following by one move: $(3,2),(2,1,2),(4),(4,1),(2,2),$ or $(1,1,2)$.\n<image1>\n\nArjun plays first, and the player who removes the last brick wins. For which starting configuration is there a strategy that guarantees a win for Beth?",
+    "options": [
+      "(6,1,1)",
+      "(6,2,1)",
+      "(6,2,2)",
+      "(6,3,1)",
+      "(6,3,2)"
+    ],
+    "answer": "B",
+    "image": "images/2243.jpg"
+  },
+  "2245": {
+    "id": "2245",
+    "question": "Daniel finds a rectangular index card and measures its diagonal to be 8 centimeters. Daniel then cuts out equal squares of side 1 cm at two opposite corners of the index card and measures the distance between the two closest vertices of these squares to be $4\\sqrt{2}$ centimeters, as shown below. What is the area of the original index card?\n\n<image1>",
+    "options": [
+      "$14$",
+      "$10\\sqrt{2}$",
+      "$16$",
+      "$12\\sqrt{2}$",
+      "$18$"
+    ],
+    "answer": "E",
+    "image": "images/2245.jpg"
+  },
+  "2246": {
+    "id": "2246",
+    "question": "A bowl is formed by attaching four regular hexagons of side 1 to a square of side 1. The edges of adjacent hexagons coincide, as shown in the figure. What is the area of the octagon obtained by joining the top eight vertices of the four hexagons, situated on the rim of the bowl?\n\n<image1>",
+    "options": [
+      "$6$",
+      "$7$",
+      "$5+2\\sqrt{2}$",
+      "$8$",
+      "$9$"
+    ],
+    "answer": "B",
+    "image": "images/2246.jpg"
+  },
+  "2249": {
+    "id": "2249",
+    "question": "In rhombus $ABCD$, point $P$ lies on segment $\\overline{AD}$ such that $BP\\perp AD$, $AP = 3$, and $PD = 2$.  What is the area of $ABCD$?\n\n<image1>",
+    "options": [
+      "$3\\sqrt{5}$",
+      "$10$",
+      "$6\\sqrt{5}$",
+      "$20$",
+      "$25$"
+    ],
+    "answer": "D",
+    "image": "images/2249.jpg"
+  },
+  "2250": {
+    "id": "2250",
+    "question": "The diagram below shows a rectangle with side lengths $4$ and $8$ and a square with side length $5$. Three vertices of the square lie on three different sides of the rectangle, as shown. What is the area of the region inside both the square and the rectangle?\n\n<image1>",
+    "options": [
+      "$15\\frac{1}{8}$",
+      "$15\\frac{3}{8}$",
+      "$15\\frac{1}{2}$",
+      "$15\\frac{5}{8}$",
+      "$15\\frac{7}{8}$"
+    ],
+    "answer": "D",
+    "image": "images/2250.jpg"
+  },
+  "2252": {
+    "id": "2252",
+    "question": "A square of area $2$ is inscribed in a square of area $3$, creating four congruent triangles, as shown below. What is the ratio of the shorter leg to the longer leg in the shaded right triangle?\n<image1>",
+    "options": [
+      "$\\frac{1}{5}$",
+      "$\\frac{1}{4}$",
+      "$2-\\sqrt{3}$",
+      "$\\sqrt{3}-\\sqrt{2}$",
+      "$\\sqrt{2}-1$"
+    ],
+    "answer": "C",
+    "image": "images/2252.jpg"
+  },
+  "2254": {
+    "id": "2254",
+    "question": "Circle $C_1$ and $C_2$ each have radius $1$, and the distance between their centers is $\\frac{1}{2}$. Circle $C_3$ is the largest circle internally tangent to both $C_1$ and $C_2$. Circle $C_4$ is internally tangent to both $C_1$ and $C_2$ and externally tangent to $C_3$. What is the radius of $C_4$?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{14}$",
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{10}$",
+      "$\\frac{3}{28}$",
+      "$\\frac{1}{9}$"
+    ],
+    "answer": "D",
+    "image": "images/2254.jpg"
+  },
+  "2255": {
+    "id": "2255",
+    "question": "Six regular hexagonal blocks of side length 1 unit are arranged inside a regular hexagonal frame. Each block lies along an inside edge of the frame and is aligned with two other blocks, as shown in the figure below. The distance from any corner of the frame to the nearest vertex of a block is $\\frac{3}{7}$ unit. What is the area of the region inside the frame not occupied by the blocks?\n<image1>",
+    "options": [
+      "$\\frac{13 \\sqrt{3}}{3}$",
+      "$\\frac{216 \\sqrt{3}}{49}$",
+      "$\\frac{9 \\sqrt{3}}{2}$",
+      "$\\frac{14 \\sqrt{3}}{3}$",
+      "$\\frac{243 \\sqrt{3}}{49}$"
+    ],
+    "answer": "C",
+    "image": "images/2255.jpg"
+  },
+  "2256": {
+    "id": "2256",
+    "question": "Square $ABCD$ is rotated $20^\\circ$ clockwise about its center to obtain square $EFGH$, as shown below.  What is the degree measure of $\\angle EAB$?\n<image1>",
+    "options": [
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$32^\\circ$",
+      "$35^\\circ$",
+      "$45^\\circ$"
+    ],
+    "answer": "B",
+    "image": "images/2256.jpg"
+  },
+  "2257": {
+    "id": "2257",
+    "question": "In the figure, it is given that angle $ C = 90^{\\circ}, \\overline{AD} = \\overline{DB}, DE \\perp AB, \\overline{AB} = 20$, and $ \\overline{AC} = 12$. The area of quadrilateral $ ADEC$ is:\n<image1>",
+    "options": [
+      "$75$",
+      "$58\\frac{1}{2}$",
+      "$48$",
+      "$37\\frac{1}{2}$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "B",
+    "image": "images/2257.jpg"
+  },
+  "2258": {
+    "id": "2258",
+    "question": "In the figure, $ \\overline{CD}, \\overline{AE}$ and $ \\overline{BF}$ are one-third of their respective sides. It follows that $ \\overline{AN_2}: \\overline{N_2N_1}: \\overline{N_1D} = 3: 3: 1$, and similarly for lines $ BE$ and $ CF$. Then the area of triangle $ N_1N_2N_3$ is:\n<image1>",
+    "options": [
+      "$\\frac{1}{10} \\triangle ABC$",
+      "$\\frac{1}{9} \\triangle ABC$",
+      "$\\frac{1}{7} \\triangle ABC$",
+      "$\\frac{1}{6} \\triangle ABC$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "C",
+    "image": "images/2258.jpg"
+  },
+  "2259": {
+    "id": "2259",
+    "question": "In the right triangle shown the sum of the distances $ BM$ and $ MA$ is equal to the sum of the distances $ BC$ and $ CA$.  If $ MB = x$, $ CB = h$, and $ CA = d$, then $ x$ equals:\n<image1>",
+    "options": [
+      "$\\frac{hd}{2h + d}$",
+      "$d - h$",
+      "$\\frac{1}{2}d$",
+      "$h + d - \\sqrt{2d}$",
+      "$\\sqrt{h^2 + d^2} - h$"
+    ],
+    "answer": "A",
+    "image": "images/2259.jpg"
+  },
+  "2260": {
+    "id": "2260",
+    "question": "Given triangle $ PQR$ with $ \\overline{RS}$ bisecting $ \\angle R$, $ PQ$ extended to $ D$ and $ \\angle n$ a right angle, then:\n<image1>",
+    "options": [
+      "$\\angle m = \\frac{1}{2}(\\angle p - \\angle q)$",
+      "$\\angle m = \\frac{1}{2}(\\angle p + \\angle q)$",
+      "$\\angle d = \\frac{1}{2} (\\angle q + \\angle p)$",
+      "$\\angle d = \\frac{1}{2}\\angle m$",
+      "$\\text{none of these is correct}$"
+    ],
+    "answer": "B",
+    "image": "images/2260.jpg"
+  },
+  "2261": {
+    "id": "2261",
+    "question": "In the diagram, if points $ A$, $ B$ and $ C$ are points of tangency, then $ x$ equals:\n<image1>",
+    "options": [
+      "$\\frac{3}{16}\"$",
+      "$\\frac{1}{8}\"$",
+      "$\\frac{1}{32}\"$",
+      "$\\frac{3}{32}\"$",
+      "$\\frac{1}{16}\"$"
+    ],
+    "answer": "E",
+    "image": "images/2261.jpg"
+  },
+  "2262": {
+    "id": "2262",
+    "question": "In the figure, $ PA$ is tangent to semicircle $ SAR$; $ PB$ is tangent to semicircle $ RBT$; $ SRT$ is a straight line; the arcs are indicated in the figure.  Angle $ APB$ is measured by:\n<image1>",
+    "options": [
+      "$\\frac{1}{2}(a - b)$",
+      "$\\frac{1}{2}(a + b)$",
+      "$(c - a) - (d - b)$",
+      "$a - b$",
+      "$a + b$"
+    ],
+    "answer": "E",
+    "image": "images/2262.jpg"
+  },
+  "2263": {
+    "id": "2263",
+    "question": "In circle $ O$ chord $ AB$ is produced so that $ BC$ equals a radius of the circle.  $ CO$ is drawn and extended to $ D$. $ AO$ is drawn.  Which of the following expresses the relationship between $ x$ and $ y$?\n\n<image1>",
+    "options": [
+      "$x=3y \\\\$",
+      "$x=2y \\\\$",
+      "$x=60^\\circ \\\\$",
+      "$\\text{there is no special relationship between }x\\text{ and }y \\\\$",
+      "$x=2y \\text{ or }x=3y\\text{, depending upon the length of }AB$"
+    ],
+    "answer": "A",
+    "image": "images/2263.jpg"
+  },
+  "2264": {
+    "id": "2264",
+    "question": "In the figure $ \\overline{AB} = \\overline{AC}$, angle $ BAD = 30^{\\circ}$, and $ \\overline{AE} = \\overline{AD}$.\n<image1>Then angle $ CDE$ equals:",
+    "options": [
+      "$7\\frac{1}{2}^{\\circ}$",
+      "$10^{\\circ}$",
+      "$12\\frac{1}{2}^{\\circ}$",
+      "$15^{\\circ}$",
+      "$20^{\\circ}$"
+    ],
+    "answer": "D",
+    "image": "images/2264.jpg"
+  },
+  "2265": {
+    "id": "2265",
+    "question": "Circle $ O$ has diameters $ AB$ and $ CD$ perpendicular to each other. $ AM$ is any chord intersecting $ CD$ at $ P$. Then $ AP\\cdot AM$ is equal to:\n<image1>",
+    "options": [
+      "$AO\\cdot OB$",
+      "$AO\\cdot AB$",
+      "$CP\\cdot CD$",
+      "$CP\\cdot PD$",
+      "$CO\\cdot OP$"
+    ],
+    "answer": "B",
+    "image": "images/2265.jpg"
+  },
+  "2266": {
+    "id": "2266",
+    "question": "In right triangle $ ABC$, $ BC = 5$, $ AC = 12$, and $ AM = x$; $ \\overline{MN} \\perp \\overline{AC}$, $ \\overline{NP} \\perp \\overline{BC}$; $ N$ is on $ AB$. If $ y = MN + NP$, one-half the perimeter of rectangle $ MCPN$, then:\n<image1>",
+    "options": [
+      "$y = \\frac{1}{2}(5 + 12)$",
+      "$y = \\frac{5x}{12} + \\frac{12}{5}$",
+      "$y = \\frac{144 - 7x}{12}$",
+      "$y = 12    \\,\\,$",
+      "$y = \\frac{5x}{12} + 6$"
+    ],
+    "answer": "C",
+    "image": "images/2266.jpg"
+  },
+  "2267": {
+    "id": "2267",
+    "question": "In triangle $ ABC$, $ AC = CD$ and $ \\angle CAB - \\angle ABC = 30^\\circ$. Then $ \\angle BAD$ is:\n<image1>",
+    "options": [
+      "$30^\\circ$",
+      "$20^\\circ$",
+      "$22\\frac{1}{2}^\\circ$",
+      "$10^\\circ$",
+      "$15^\\circ$"
+    ],
+    "answer": "E",
+    "image": "images/2267.jpg"
+  },
+  "2268": {
+    "id": "2268",
+    "question": "In circle $ O$, the midpoint of radius $ OX$ is $ Q$; at $ Q$, $ \\overline{AB} \\perp \\overline{XY}$. The semi-circle with $ \\overline{AB}$ as diameter intersects $ \\overline{XY}$ in $ M$. Line $ \\overline{AM}$ intersects circle $ O$ in $ C$, and line $ \\overline{BM}$ intersects circle $ O$ in $ D$. Line $ \\overline{AD}$ is drawn. Then, if the radius of circle $ O$ is $ r$, $ AD$ is:\n<image1>",
+    "options": [
+      "$r\\sqrt{2}$",
+      "$r$",
+      "$\\text{not a side of an inscribed regular polygon}$",
+      "$\\frac{r\\sqrt{3}}{2}$",
+      "$r\\sqrt{3}$"
+    ],
+    "answer": "A",
+    "image": "images/2268.jpg"
+  },
+  "2269": {
+    "id": "2269",
+    "question": "Let $ ABC$ be an equilateral triangle inscribed in circle $ O$. $ M$ is a point on arc $ BC$. Lines $ \\overline{AM}$, $ \\overline{BM}$, and $ \\overline{CM}$ are drawn. Then $ AM$ is:\n<image1>",
+    "options": [
+      "$\\text{equal to }{BM + CM}$",
+      "$\\text{less than }{BM + CM}$",
+      "$\\text{greater than }{BM + CM}$",
+      "$\\text{equal, less than, or greater than }{BM + CM}\\text{, depending upon the position of }{ {M} }$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "A",
+    "image": "images/2269.jpg"
+  },
+  "2270": {
+    "id": "2270",
+    "question": "The parallel sides of a trapezoid are $ 3$ and $ 9$. The non-parallel sides are $ 4$ and $ 6$. A line parallel to the bases divides the trapezoid into two trapezoids of equal perimeters. The ratio in which each of the non-parallel sides is divided is:\n<image1>",
+    "options": [
+      "4: 3",
+      "3: 2",
+      "4: 1",
+      "3: 1",
+      "6: 1"
+    ],
+    "answer": "C",
+    "image": "images/2270.jpg"
+  },
+  "2271": {
+    "id": "2271",
+    "question": "In the accompanying figure $ \\overline{CE}$ and $ \\overline{DE}$ are equal chords of a circle with center $ O$. Arc $ AB$ is a quarter-circle. Then the ratio of the area of triangle $ CED$ to the area of triangle $ AOB$ is:\n<image1>",
+    "options": [
+      "$\\sqrt{2} : 1$",
+      "$\\sqrt{3} : 1$",
+      "$4 : 1$",
+      "$3 : 1$",
+      "$2 : 1$"
+    ],
+    "answer": "E",
+    "image": "images/2271.jpg"
+  },
+  "2272": {
+    "id": "2272",
+    "question": "In a general triangle $ ADE$ (as shown) lines $ \\overline{EB}$ and $ \\overline{EC}$ are drawn. Which of the following angle relations is true?\n<image1>",
+    "options": [
+      "$x + z = a + b$",
+      "$y + z = a + b$",
+      "$m + x = w + n  \\\\$",
+      "$x + z + n = w + c + m$",
+      "$x + y + n = a + b + m$"
+    ],
+    "answer": "E",
+    "image": "images/2272.jpg"
+  },
+  "2273": {
+    "id": "2273",
+    "question": "$ ABCD$ is a rectangle (see the accompanying diagram) with $ P$ any point on $ \\overline{AB}$. $ \\overline{PS} \\perp \\overline{BD}$ and $ \\overline{PR} \\perp \\overline{AC}$. $ \\overline{AF} \\perp \\overline{BD}$ and $ \\overline{PQ} \\perp \\overline{AF}$. Then $ PR + PS$ is equal to:\n<image1>",
+    "options": [
+      "PQ",
+      "AE",
+      "PT + AT",
+      "AF",
+      "EF"
+    ],
+    "answer": "D",
+    "image": "images/2273.jpg"
+  },
+  "2274": {
+    "id": "2274",
+    "question": "In this diagram a scheme is indicated for associating all the points of segment $ \\overline{AB}$ with those of segment $ \\overline{A'B'}$, and reciprocally. To described this association scheme analytically, let $ x$ be the distance from a point $ P$ on $ \\overline{AB}$ to $ D$ and let $ y$ be the distance from the associated point $ P'$ of $ \\overline{A'B'}$ to $ D'$. Then for any pair of associated points, if $ x = a,\\, x + y$ equals:\n<image1>",
+    "options": [
+      "$13a$",
+      "$17a - 51$",
+      "$17 - 3a$",
+      "$\\frac{17 - 3a}{4}$",
+      "$12a - 34$"
+    ],
+    "answer": "C",
+    "image": "images/2274.jpg"
+  },
+  "2275": {
+    "id": "2275",
+    "question": "In this figure the center of the circle is $O$. $AB \\perp BC$, $ADOE$ is a straight line, $AP = AD$, and $AB$ has a length twice the radius. Then:\n<image1>",
+    "options": [
+      "$AP^2 = PB \\times AB$",
+      "$AP \\times DO = PB \\times AD$",
+      "$AB^2 = AD \\times DE$",
+      "$AB \\times AD = OB \\times AO$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "A",
+    "image": "images/2275.jpg"
+  },
+  "2276": {
+    "id": "2276",
+    "question": "In this diagram $AB$ and $AC$ are the equal sides of an isosceles triangle $ABC$, in which is inscribed equilateral triangle $DEF$. Designate angle $BFD$ by $a$, angle $ADE$ by $b$, and angle $FEC$ by $c$. Then:\n<image1>",
+    "options": [
+      "$b=\\frac{a+c}{2}$",
+      "$b=\\frac{a-c}{2}$",
+      "$a=\\frac{b-c}{2}$",
+      "$a=\\frac{b+c}{2}$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "D",
+    "image": "images/2276.jpg"
+  },
+  "2277": {
+    "id": "2277",
+    "question": "Chord $EF$ is the perpendicular bisector of chord $BC$, intersecting it in $M$. Between $B$ and $M$ point $U$ is taken, and $EU$ extended meets the circle in $A$. Then, for any selection of $U$, as described, triangle $EUM$ is similar to triangle:\n\n<image1>",
+    "options": [
+      "EFA",
+      "EFC",
+      "ABM",
+      "ABU",
+      "FMC"
+    ],
+    "answer": "A",
+    "image": "images/2277.jpg"
+  },
+  "2280": {
+    "id": "2280",
+    "question": "In triangle $ABC$ lines $CE$ and $AD$ are drawn so that\n\n$\\frac{CD}{DB}=\\frac{3}{1}$ and $\\frac{AE}{EB}=\\frac{3}{2}$. Let $r=\\frac{CP}{PE}$\n\nwhere $P$ is the intersection point of $CE$ and $AD$. Then $r$ equals:\n\n<image1>",
+    "options": [
+      "$3$",
+      "$\\frac{3}{2}$",
+      "$4$",
+      "$5$",
+      "$\\frac{5}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2280.jpg"
+  },
+  "2281": {
+    "id": "2281",
+    "question": "In this figure $\\angle RFS = \\angle FDR$, $FD = 4$ inches, $DR = 6$ inches, $FR = 5$ inches, $FS = 7\\frac{1}{2}$ inches. The length of $RS$, in inches, is:\n\n<image1>",
+    "options": [
+      "$\\text{undetermined}$",
+      "$4$",
+      "$5\\frac{1}{2}$",
+      "$6$",
+      "$6\\frac{1}{4}$"
+    ],
+    "answer": "E",
+    "image": "images/2281.jpg"
+  },
+  "2282": {
+    "id": "2282",
+    "question": "$P$ is a point interior to rectangle $ABCD$ and such that $PA=3$ inches, $PD=4$ inches, and $PC=5$ inches.\n<image1>\nThen $PB$, in inches, equals:",
+    "options": [
+      "$2\\sqrt{3}$",
+      "$3\\sqrt{2}$",
+      "$3\\sqrt{3}$",
+      "$4\\sqrt{2}$",
+      "$2$"
+    ],
+    "answer": "B",
+    "image": "images/2282.jpg"
+  },
+  "2283": {
+    "id": "2283",
+    "question": "In this figure the radius of the circle is equal to the altitude of the equilateral triangle $ABC$. The circle is made to roll along the side $AB$, remaining tangent to it at a variable point $T$ and intersecting lines $AC$ and $BC$ in variable points $M$ and $N$, respectively. Let $n$ be the number of degrees in arc $MTN$.\n<image1>\nThen $n$, for all permissible positions of the circle:",
+    "options": [
+      "$\\text{varies from }30^{\\circ}\\text{ to }90^{\\circ}$",
+      "$\\text{varies from }30^{\\circ}\\text{ to }60^{\\circ}$",
+      "$\\text{varies from }60^{\\circ}\\text{ to }90^{\\circ}$",
+      "$\\text{remains constant at }30^{\\circ}$",
+      "$\\text{remains constant at }60^{\\circ}$"
+    ],
+    "answer": "E",
+    "image": "images/2283.jpg"
+  },
+  "2284": {
+    "id": "2284",
+    "question": "The magnitudes of the sides of triangle $ABC$ are $a$, $b$, and $c$, as shown, with $c\\le b\\le a$. Through interior point $P$ and the vertices $A$, $B$, $C$, lines are drawn meeting the opposite sides in $A'$, $B'$, $C'$, respectively.\n<image1>\nLet $s=AA'+BB'+CC'$. Then, for all positions of point $P$, $s$ is less than:",
+    "options": [
+      "2a+b",
+      "2a+c",
+      "2b+c",
+      "a+2b",
+      "a+b+c"
+    ],
+    "answer": "A",
+    "image": "images/2284.jpg"
+  },
+  "2285": {
+    "id": "2285",
+    "question": "An \"n-pointed star\" is formed as follows: the sides of a convex polygon are numbered consecutively $1,2,\\cdots,k,\\cdots,n$, $n\\geq 5$; for all $n$ values of $k$, sides $k$ and $k+2$ are non-parallel, sides $n+1$ and $n+2$ being respectively identical with sides $1$ and $2$; prolong the $n$ pairs of sides numbered $k$ and $k+2$ until they meet. (A figure is shown for the case $n=5$)\n<image1>\n\nLet $S$ be the degree-sum of the interior angles at the $n$ points of the star; then $S$ equals:",
+    "options": [
+      "180",
+      "360",
+      "180(n+2)",
+      "180(n-2)",
+      "180(n-4)"
+    ],
+    "answer": "E",
+    "image": "images/2285.jpg"
+  },
+  "2286": {
+    "id": "2286",
+    "question": "Triangle $ABC$ is inscribed in a circle with center $O'$.  A circle with center $O$ is inscribed in triangle $ABC$. $AO$ is drawn, and extended to intersect the larger circle in $D$.\n<image1>\n Then, we must have:",
+    "options": [
+      "$CD=BD=O'D$",
+      "$AO=CO=OD$",
+      "$CD=CO=BD  \\\\$",
+      "$CD=OD=BD$",
+      "$O'B=O'C=OD $"
+    ],
+    "answer": "D",
+    "image": "images/2286.jpg"
+  },
+  "2287": {
+    "id": "2287",
+    "question": "<image1>\nIn this figure $AB$ is a diameter of a circle, centered at $O$, with radius $a$.  A  chord $AD$ is drawn and extended to meet the tangent to the circle at $B$ in point $C$.  Point $E$ is taken on $AC$ so that $AE=DC$.  Denoting the distances of $E$ from the tangent through $A$ and from the diameter $AB$ by $x$ and $y$, respectively, we can deduce the relation:",
+    "options": [
+      "$y^2=\\frac{x^3}{2a-x}$",
+      "$y^2=\\frac{x^3}{2a+x}$",
+      "$y^4=\\frac{x^2}{2-x} \\\\$",
+      "$x^2=\\frac{y^2}{2a-x}$",
+      "$x^2=\\frac{y^2}{2a+x}$"
+    ],
+    "answer": "A",
+    "image": "images/2287.jpg"
+  },
+  "2288": {
+    "id": "2288",
+    "question": "<image1>\n\nIn this diagram semi-circles are constructed on diameters $\\overline{AB}$, $\\overline{AC}$, and $\\overline{CB}$, so that they are mutually tangent.  If $\\overline{CD} \\bot \\overline{AB}$, then the ratio of the shaded area to the area of a circle with $\\overline{CD}$ as radius is:",
+    "options": [
+      "$1:2$",
+      "$1:3$",
+      "$\\sqrt{3}:7$",
+      "$1:4$",
+      "$\\sqrt{2}:6$"
+    ],
+    "answer": "D",
+    "image": "images/2288.jpg"
+  },
+  "2289": {
+    "id": "2289",
+    "question": "In this diagram, not drawn to scale, figures $\\text{I}$ and $\\text{III}$ are equilateral triangular regions with respective areas of $32\\sqrt{3}$ and $8\\sqrt{3}$ square inches. Figure $\\text{II}$ is a square region with area $32$ sq. in. Let the length of segment $AD$ be decreased by $12\\frac{1}{2} \\%$ of itself, while the lengths of $AB$ and $CD$ remain unchanged. The percent decrease in the area of the square is:\n<image1>",
+    "options": [
+      "$12\\frac{1}{2}$",
+      "$25$",
+      "$50$",
+      "$75$",
+      "$87\\frac{1}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2289.jpg"
+  },
+  "2290": {
+    "id": "2290",
+    "question": "In this diagram the center of the circle is $O$, the radius is $a$ inches, chord $EF$ is parallel to chord $CD, O, G, H, J$ are collinear, and $G$ is the midpoint of $CD$. Let $K$ (sq. in.) represent the area of trapezoid $CDFE$ and let $R$ (sq. in.) represent the area of rectangle $ELMF$. Then, as $CD$ and $EF$ are translated upward so that $OG$ increases toward the value $a$, while $JH$ always equals $HG$, the ratio $K:R$ become arbitrarily close to:\n<image1>",
+    "options": [
+      "$0$",
+      "$1$",
+      "$\\sqrt{2}$",
+      "$\\frac{1}{\\sqrt{2}}+\\frac{1}{2}$",
+      "$\\frac{1}{\\sqrt{2}}+1$"
+    ],
+    "answer": "D",
+    "image": "images/2290.jpg"
+  },
+  "2291": {
+    "id": "2291",
+    "question": "<image1>\n\nA parabolic arch has a height of $16$ inches and a span of $40$ inches.  The height, in inches, of the arch at a point $5$ inches from the center of $M$ is:",
+    "options": [
+      "$1$",
+      "$15$",
+      "$15\\frac{1}{3}$",
+      "$15\\frac{1}{2}$",
+      "$15\\frac{3}{4}$"
+    ],
+    "answer": "B",
+    "image": "images/2291.jpg"
+  },
+  "2292": {
+    "id": "2292",
+    "question": "Let $OABC$ be a unit square in the $xy$-plane with $O(0,0),A(1,0),B(1,1)$ and $C(0,1)$.  Let $u=x^2-y^2$ and $v=2xy$ be a transformation of the $xy$-plane into the $uv$-plane.  The transform (or image) of the square is:\n<image1>\n<image2>\n<image3>\n<image4>\n<image5>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D",
+    "image": "images/2292.jpg"
+  },
+  "2293": {
+    "id": "2293",
+    "question": "In the accompanying figure, segments $AB$ and $CD$ are parallel, the measure of angle $D$ is twice the measure of angle $B$, and the measures of segments $AB$ and $CD$ are $a$ and $b$ respectively.\n<image1>\nThen the measure of $AB$ is equal to",
+    "options": [
+      "$\\frac{1}{2}a+2b$",
+      "$\\frac{3}{2}b+\\frac{3}{4}a$",
+      "$2a-b$",
+      "$4b-\\frac{1}{2}a$",
+      "$a+b$"
+    ],
+    "answer": "E",
+    "image": "images/2293.jpg"
+  },
+  "2294": {
+    "id": "2294",
+    "question": "Points $A,B,Q,D,$ and $C$ lie on the circle shown and the measures of arcs $\\widehat{BQ}$ and $\\widehat{QD}$ are $42^\\circ$ and $38^\\circ$ respectively.\n<image1>\nThe sum of the measures of angles $P$ and $Q$ is",
+    "options": [
+      "$80^\\circ$",
+      "$62^\\circ$",
+      "$40^\\circ$",
+      "$46^\\circ$",
+      "$\\text{None of these}$"
+    ],
+    "answer": "C",
+    "image": "images/2294.jpg"
+  },
+  "2295": {
+    "id": "2295",
+    "question": "<image1>\n\nPascal's triangle is an array of positive integers(See figure), in which the first row is $1$, the second row is two $1$'s, each row begins and ends with $1$, and the $k^\\text{th}$ number in any row when it is not $1$, is the sum of the $k^\\text{th}$ and $(k-1)^\\text{th}$ numbers in the immediately preceding row. The quotient of the number of numbers in the first $n$ rows which are not $1$'s and the number of $1$'s is",
+    "options": [
+      "$\\frac{n^2-n}{2n-1}$",
+      "$\\frac{n^2-n}{4n-2}$",
+      "$\\frac{n^2-2n}{2n-1}$",
+      "$\\frac{n^2-3n+2}{4n-2}$",
+      "$\\text{None of these}$"
+    ],
+    "answer": "D",
+    "image": "images/2295.jpg"
+  },
+  "2296": {
+    "id": "2296",
+    "question": "<image1>\n\nIn triangle $ABC$, point $F$ divides side $AC$ in the ratio $1:2$. Let $E$ be the point of intersection of side $BC$ and $AG$ where $G$ is the midpoints of $BF$. The point $E$ divides side $BC$ in the ratio",
+    "options": [
+      "1:4",
+      "1:3",
+      "2:5",
+      "4:11",
+      "3:8"
+    ],
+    "answer": "B",
+    "image": "images/2296.jpg"
+  },
+  "2297": {
+    "id": "2297",
+    "question": "<image1>\n\nQuadrilateral $ABCD$ is inscribed in a circle with side $AD$, a diameter of length $4$. If sides $AB$ and $BC$ each have length $1$, then side $CD$ has length",
+    "options": [
+      "$\\frac{7}{2}$",
+      "$\\frac{5\\sqrt{2}}{2}$",
+      "$\\sqrt{11}$",
+      "$\\sqrt{13}$",
+      "$2\\sqrt{3}$"
+    ],
+    "answer": "A",
+    "image": "images/2297.jpg"
+  },
+  "2298": {
+    "id": "2298",
+    "question": "<image1>\n\nInside square $ABCD$ (See figure) with sides of length $12$ inches, segment $AE$ is drawn where $E$ is the point on $DC$ which is $5$ inches from $D$. The perpendicular bisector of $AE$ is drawn and intersects $AE$, $AD$, and $BC$ at points $M$, $P$, and $Q$ respectively. The ratio of segment $PM$ to $MQ$ is",
+    "options": [
+      "5:12",
+      "5:13",
+      "5:19",
+      "1:4",
+      "5:21"
+    ],
+    "answer": "C",
+    "image": "images/2298.jpg"
+  },
+  "2300": {
+    "id": "2300",
+    "question": "<image1>\n\nThe radius of the smallest circle containing the symmetric figure composed of the $3$ unit squares shown above is",
+    "options": [
+      "$\\sqrt{2}$",
+      "$\\sqrt{1.25}$",
+      "$1.25$",
+      "$\\frac{5\\sqrt{17}}{16}$",
+      "$\\text{None of these}$"
+    ],
+    "answer": "D",
+    "image": "images/2300.jpg"
+  },
+  "2301": {
+    "id": "2301",
+    "question": "<image1>\n\nIn the circle above, $M$ is the midpoint of arc $CAB$ and segment $MP$ is perpendicular to chord $AB$ at $P$. If the measure of chord $AC$ is $x$ and that of segment $AP$ is $(x+1)$, then segment $PB$ has measure equal to",
+    "options": [
+      "3x+2",
+      "3x+1",
+      "2x+3",
+      "2x+2",
+      "2x+1"
+    ],
+    "answer": "E",
+    "image": "images/2301.jpg"
+  },
+  "2302": {
+    "id": "2302",
+    "question": "<image1>\n\nA rectangular piece of paper $6$ inches wide is folded as in the diagram so that one corner touches the opposite side. The length in inches of the crease $L$ in terms of angle $\\theta$ is",
+    "options": [
+      "$3\\sec ^2\\theta\\csc\\theta$",
+      "$6\\sin\\theta\\sec\\theta$",
+      "$3\\sec\\theta\\csc\\theta$",
+      "$6\\sec\\theta\\csc ^2\\theta$",
+      "$\\text{None of these}$"
+    ],
+    "answer": "A",
+    "image": "images/2302.jpg"
+  },
+  "2303": {
+    "id": "2303",
+    "question": "<image1>\n\nChords $AB$ and $CD$ in the circle above intersect at $E$ and are perpendicular to each other. If segments $AE$, $EB$, and $ED$ have measures $2$, $3$, and $6$ respectively, then the length of the diameter of the circle is",
+    "options": [
+      "$4\\sqrt{5}$",
+      "$\\sqrt{65}$",
+      "$2\\sqrt{17}$",
+      "$3\\sqrt{7}$",
+      "$6\\sqrt{2}$"
+    ],
+    "answer": "B",
+    "image": "images/2303.jpg"
+  },
+  "2304": {
+    "id": "2304",
+    "question": "<image1>\n\nEquilateral triangle $ABP$ (see figure) with side $AB$ of length $2$ inches is placed inside square $AXYZ$ with side of length $4$ inches so that $B$ is on side $AX$. The triangle is rotated clockwise about $B$, then $P$, and so on along the sides of the square until $P$ returns to its original position. The length of the path in inches traversed by vertex $P$ is equal to",
+    "options": [
+      "$20\\pi/3$",
+      "$32\\pi/3$",
+      "$12\\pi$",
+      "$40\\pi/3$",
+      "$15\\pi$"
+    ],
+    "answer": "D",
+    "image": "images/2304.jpg"
+  },
+  "2305": {
+    "id": "2305",
+    "question": "A circle with a circumscribed and an inscribed square centered at the origin $ O$ of a rectangular coordinate system with positive $ x$ and $ y$ axes $ OX$ and $ OY$ is shown in each figure $ I$ to $ IV$ below.\n<image1>\n\nThe inequalities\n\\[ |x| + |y| \\leq \\sqrt{2(x^2 + y^2)} \\leq 2\\mbox{Max}(|x|, |y|)\\]\nare represented geometrically* by the figure numbered",
+    "options": [
+      "$I$",
+      "$II$",
+      "$III$",
+      "$IV$",
+      "$\\mbox{none of these}*An inequality of the form  f(x, y) \\leq g(x, y), for all  x and  y is represented geometrically by a figure showing the containment \\{\\mbox{The set of points }(x, y)\\mbox{ such that }g(x, y) \\leq a\\} \\subset\\ \\{\\mbox{The set of points }(x, y)\\mbox{ such that }f(x, y) \\leq a\\}for a typical real number  a$."
+    ],
+    "answer": "B",
+    "image": "images/2305.jpg"
+  },
+  "2306": {
+    "id": "2306",
+    "question": "In the unit circle shown in the figure, chords $PQ$ and $MN$ are parallel to the unit radius $OR$ of the circle with center at $O$. Chords $MP$, $PQ$, and $NR$ are each $s$ units long and chord $MN$ is $d$ units long.\n<image1>\nOf the three equations\n\\[ \\textbf{I.}\\ d-s=1, \\qquad \\textbf{II.}\\ ds=1, \\qquad \\textbf{III.}\\ d^2-s^2=\\sqrt{5} \\]those which are necessarily true are",
+    "options": [
+      "$\\textbf{I} \\text{only}$",
+      "$\\textbf{II} \\text{only}$",
+      "$\\textbf{III} \\text{only}$",
+      "$\\textbf{I} \\text{and} \\textbf{II} \\text{only}$",
+      "$\\textbf{I, II} \\text{and} \\textbf{III}$"
+    ],
+    "answer": "E",
+    "image": "images/2306.jpg"
+  },
+  "2307": {
+    "id": "2307",
+    "question": "In the adjoining figure $ABCD$ is a square and $CMN$ is an equilateral triangle. If the area of $ABCD$ is one square inch, then the area of $CMN$ in square inches is\n<image1>",
+    "options": [
+      "$2\\sqrt{3}-3$",
+      "$1-\\frac{\\sqrt{3}}{3}$",
+      "$\\frac{\\sqrt{3}}{4}$",
+      "$\\frac{\\sqrt{2}}{3}$",
+      "$4-2\\sqrt{3}$"
+    ],
+    "answer": "A",
+    "image": "images/2307.jpg"
+  },
+  "2308": {
+    "id": "2308",
+    "question": "In the adjoining figure $ TP$ and $ T'Q$ are parallel tangents to a circle of radius $ r$, with $ T$ and $ T'$ the points of tangency. $ PT''Q$ is a third tangent with $ T''$ as point of tangency. If $ TP=4$ and $ T'Q=9$ then $ r$ is\n\n<image1>",
+    "options": [
+      "$25/6$",
+      "$6$",
+      "$25/4 \\$",
+      "$\\text{a number other than }25/6, 6, 25/4 \\$",
+      "$\\text{not determinable from the given information}$"
+    ],
+    "answer": "B",
+    "image": "images/2308.jpg"
+  },
+  "2309": {
+    "id": "2309",
+    "question": "In parallelogram $ABCD$ of the accompanying diagram, line $DP$ is drawn bisecting $BC$ at $N$ and meeting $AB$ (extended) at $P$. From vertex $C$, line $CQ$ is drawn bisecting side $AD$ at $M$ and meeting $AB$ (extended) at $Q$. Lines $DP$ and $CQ$ meet at $O$. If the area of parallelogram $ABCD$ is $k$, then the area of the triangle $QPO$ is equal to\n<image1>",
+    "options": [
+      "$k$",
+      "$\\frac{6k}{5}$",
+      "$\\frac{9k}{8}$",
+      "$\\frac{5k}{4}$",
+      "$2k$"
+    ],
+    "answer": "C",
+    "image": "images/2309.jpg"
+  },
+  "2310": {
+    "id": "2310",
+    "question": "In the adjoining figure triangle $ ABC$ is such that $ AB = 4$ and $ AC = 8$.  If $ M$ is the midpoint of $ BC$ and $ AM = 3$, what is the length of $ BC$?\n<image1>",
+    "options": [
+      "$2\\sqrt{26}$",
+      "$2\\sqrt{31}$",
+      "$9$",
+      "$4+2\\sqrt{13}$",
+      "$\\text{not enough information given to solve the problem}$"
+    ],
+    "answer": "B",
+    "image": "images/2310.jpg"
+  },
+  "2311": {
+    "id": "2311",
+    "question": "In the adjoining figure $AB$ and $BC$ are adjacent sides of square $ABCD$; $M$ is the midpoint of $AB$; $N$ is the midpoint of $BC$; and $AN$ and $CM$ intersect at $O$. The ratio of the area of $AOCD$ to the area of $ABCD$ is\n<image1>",
+    "options": [
+      "$\\frac{5}{6}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\frac{(\\sqrt{3}-1)}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2311.jpg"
+  },
+  "2312": {
+    "id": "2312",
+    "question": "In triangle $ABC$ shown in the adjoining figure, $M$ is the midpoint of side $BC$, $AB=12$ and $AC=16$. Points $E$ and $F$ are taken on $AC$ and $AB$, respectively, and lines $EF$ and $AM$ intersect at $G$. If $AE=2AF$ then $\\frac{EG}{GF}$ equals\n<image1>",
+    "options": [
+      "$\\frac{3}{2}$",
+      "$\\frac{4}{3}$",
+      "$\\frac{5}{4}$",
+      "$\\frac{6}{5} \\$",
+      "$\\text{not enough information to solve the problem}$"
+    ],
+    "answer": "A",
+    "image": "images/2312.jpg"
+  },
+  "2313": {
+    "id": "2313",
+    "question": "<image1>\n\nIn the adjoining figure, $AB$ is tangent at $A$ to the circle with center $O$; point $D$ is interior to the circle; and $DB$ intersects the circle at $C$. If $BC=DC=3$, $OD=2$, and $AB=6$, then the radius of the circle is",
+    "options": [
+      "$3+\\sqrt{3}$",
+      "$15/\\pi$",
+      "$9/2$",
+      "$2\\sqrt{6}$",
+      "$\\sqrt{22}$"
+    ],
+    "answer": "E",
+    "image": "images/2313.jpg"
+  },
+  "2314": {
+    "id": "2314",
+    "question": "<image1>\n\nIn the adjoining figure, circle $\\mathit{K}$ has diameter $\\mathit{AB}$; cirlce $\\mathit{L}$ is tangent to circle $\\mathit{K}$ and to $\\mathit{AB}$ at the center of circle $\\mathit{K}$; and circle $\\mathit{M}$ tangent to circle $\\mathit{K}$, to circle $\\mathit{L}$ and $\\mathit{AB}$. The ratio of the area of circle $\\mathit{K}$ to the area of circle $\\mathit{M}$ is",
+    "options": [
+      "$12$",
+      "$14$",
+      "$16$",
+      "$18$",
+      "$\\text{not an integer}$"
+    ],
+    "answer": "C",
+    "image": "images/2314.jpg"
+  },
+  "2315": {
+    "id": "2315",
+    "question": "<image1>\n\nIn the adjoining figure, every point of circle $\\mathit{O'}$ is exterior to circle $\\mathit{O}$. Let $\\mathit{P}$ and $\\mathit{Q}$ be the points of intersection of an internal common tangent with the two external common tangents. Then the length of $PQ$ is",
+    "options": [
+      "$\\text{the average of the lengths of the internal and external common tangents}$",
+      "$\\text{equal to the length of an external common tangent if and only if circles }\\mathit{O}\\text{ and }\\mathit{O'}\\text{ have equal radii}$",
+      "$\\text{always equal to the length of an external common tangent}$",
+      "$\\text{greater than the length of an external common tangent}$",
+      "$\\text{the geometric mean of the lengths of the internal and external common tangents}$"
+    ],
+    "answer": "C",
+    "image": "images/2315.jpg"
+  },
+  "2316": {
+    "id": "2316",
+    "question": "<image1>\n\nIn triangle $ABC$, $AB=AC$ and $\\measuredangle A=80^\\circ$. If points $D$, $E$, and $F$ lie on sides $BC$, $AC$ and $AB$, respectively, and $CE=CD$ and $BF=BD$, then $\\measuredangle EDF$ equals",
+    "options": [
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$65^\\circ$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "C",
+    "image": "images/2316.jpg"
+  },
+  "2317": {
+    "id": "2317",
+    "question": "<image1>\n\nIn the adjoining figure $\\measuredangle E=40^\\circ$ and arc $AB$, arc $BC$, and arc $CD$ all have equal length. Find the measure of $\\measuredangle ACD$.",
+    "options": [
+      "$10^\\circ$",
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$\\left(\\frac{45}{2}\\right)^\\circ$",
+      "$30^\\circ$"
+    ],
+    "answer": "B",
+    "image": "images/2317.jpg"
+  },
+  "2318": {
+    "id": "2318",
+    "question": "<image1>\n\nEach of the three circles in the adjoining figure is externally tangent to the other two, and each side of the triangle is tangent to two of the circles. If each circle has radius three, then the perimeter of the triangle is",
+    "options": [
+      "$36+9\\sqrt{2}$",
+      "$36+6\\sqrt{3}$",
+      "$36+9\\sqrt{3}$",
+      "$18+18\\sqrt{3}$",
+      "$45$"
+    ],
+    "answer": "D",
+    "image": "images/2318.jpg"
+  },
+  "2319": {
+    "id": "2319",
+    "question": "<image1>\n\nIf $a,b,$ and $d$ are the lengths of a side, a shortest diagonal and a longest diagonal, respectively, of a regular nonagon (see adjoining figure), then",
+    "options": [
+      "$d=a+b$",
+      "$d^2=a^2+b^2$",
+      "$d^2=a^2+ab+b^2$",
+      "$b=\\frac{a+d}{2}$",
+      "$b^2=ad$"
+    ],
+    "answer": "A",
+    "image": "images/2319.jpg"
+  },
+  "2321": {
+    "id": "2321",
+    "question": "<image1>\n\nVertex $E$ of equilateral triangle $ABE$ is in the interior of square $ABCD$, and $F$ is the point of intersection of diagonal $BD$ and line segment $AE$. If length $AB$ is $\\sqrt{1+\\sqrt{3}}$ then the area of $\\triangle ABF$ is",
+    "options": [
+      "$1$",
+      "$\\frac{\\sqrt{2}}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$4-2\\sqrt{3}$",
+      "$\\frac{1}{2}+\\frac{\\sqrt{3}}{4}$"
+    ],
+    "answer": "C",
+    "image": "images/2321.jpg"
+  },
+  "2322": {
+    "id": "2322",
+    "question": "<image1>\nIn $\\triangle ABC$, $AB = 10~ AC = 8$ and $BC = 6$. Circle $P$ is the circle with smallest radius which passes through $C$ and is tangent to $AB$. Let $Q$ and $R$ be the points of intersection, distinct from $C$ , of circle $P$ with sides $AC$ and $BC$, respectively. The length of segment $QR$ is",
+    "options": [
+      "$4.75$",
+      "$4.8$",
+      "$5$",
+      "$4\\sqrt{2}$",
+      "$3\\sqrt{3}$"
+    ],
+    "answer": "B",
+    "image": "images/2322.jpg"
+  },
+  "2323": {
+    "id": "2323",
+    "question": "<image1>\n\nIf $\\triangle A_1A_2A_3$ is equilateral and $A_{n+3}$ is the midpoint of line segment $A_nA_{n+1}$ for all positive integers $n$, then the measure of $\\measuredangle A_{44}A_{45}A_{43}$ equals",
+    "options": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$",
+      "$120^\\circ$"
+    ],
+    "answer": "E",
+    "image": "images/2323.jpg"
+  },
+  "2326": {
+    "id": "2326",
+    "question": "<image1>\n\nIn the adjoining figure, $CD$ is the diameter of a semi-circle with center $O$. Point $A$ lies on the extension of $DC$ past $C$; point $E$ lies on the semi-circle, and $B$ is the point of intersection (distinct from $E$ ) of line segment $AE$ with the semi-circle. If length $AB$ equals length $OD$, and the measure of $\\measuredangle EOD$ is $45^\\circ$, then the\nmeasure of $\\measuredangle BAO$ is",
+    "options": [
+      "$10^\\circ$",
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$25^\\circ$",
+      "$30^\\circ$"
+    ],
+    "answer": "B",
+    "image": "images/2326.jpg"
+  },
+  "2327": {
+    "id": "2327",
+    "question": "<image1>\n\nPoints $A , B, C$, and $D$ are distinct and lie, in the given order, on a straight line. Line segments $AB, AC$, and $AD$ have lengths $x, y$, and $z$ , respectively. If line segments $AB$ and $CD$ may be rotated about points $B$ and $C$, respectively, so that points $A$ and $D$ coincide, to form a triangle with positive area, then which of the following three inequalities must be satisfied?\n\n$\\textbf{I. }x<\\frac{z}{2}\\qquad\\textbf{II. }y<x+\\frac{z}{2}\\qquad\\textbf{III. }y<\\frac{z}{2}$",
+    "options": [
+      "$\\textbf{I. }\\text{only}$",
+      "$\\textbf{II. }\\text{only}$",
+      "$\\textbf{I. }\\text{and }\\textbf{II. }\\text{only}$",
+      "$\\textbf{II. }\\text{and }\\textbf{III. }\\text{only}$",
+      "$\\textbf{I. },\\textbf{II. },\\text{and }\\textbf{III. }$"
+    ],
+    "answer": "C",
+    "image": "images/2327.jpg"
+  },
+  "2328": {
+    "id": "2328",
+    "question": "The edges of a regular tetrahedron with vertices $A ,~ B,~ C$, and $D$ each have length one. Find the least possible distance between a pair of points $P$ and $Q$, where $P$ is on edge $AB$ and $Q$ is on edge $CD$.\n<image1>",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{\\sqrt{2}}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\frac{\\sqrt{3}}{3}$"
+    ],
+    "answer": "C",
+    "image": "images/2328.jpg"
+  },
+  "2329": {
+    "id": "2329",
+    "question": "Circles with centers $A ,~ B,$ and $C$ each have radius $r$, where $1 < r < 2$. The distance between each pair of centers is $2$.\n<image1>\nIf $B'$ is the point of intersection of circle $A$ and circle $C$ which is outside circle $B$, and if $C'$ is the point of intersection of circle $A$ and circle $B$ which is outside circle $C$, then length $B'C'$ equals",
+    "options": [
+      "$3r-2$",
+      "$r^2$",
+      "$r+\\sqrt{3(r-1)}$",
+      "$1+\\sqrt{3(r^2-1)}$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "D",
+    "image": "images/2329.jpg"
+  },
+  "2330": {
+    "id": "2330",
+    "question": "<image1>\n\nIn $\\triangle ABC$, $E$ is the midpoint of side $BC$ and $D$ is on side $AC$. If the length of $AC$ is $1$ and $\\measuredangle BAC = 60^\\circ$, $\\measuredangle ABC = 100^\\circ$, $\\measuredangle ACB = 20^\\circ$ and $\\measuredangle DEC = 80^\\circ$, then the area of $\\triangle ABC$ plus twice the area of $\\triangle CDE$ equals",
+    "options": [
+      "$\\frac{1}{4}\\cos 10^\\circ$",
+      "$\\frac{\\sqrt{3}}{8}$",
+      "$\\frac{1}{4}\\cos 40^\\circ$",
+      "$\\frac{1}{4}\\cos 50^\\circ$",
+      "$\\frac{1}{8}$"
+    ],
+    "answer": "B",
+    "image": "images/2330.jpg"
+  },
+  "2331": {
+    "id": "2331",
+    "question": "In the adjoining figure, CDE is an equilateral triangle and ABCD and DEFG are squares.\n<image1>\nThe measure of $\\angle GDA$ is",
+    "options": [
+      "$90^\\circ$",
+      "$105^\\circ$",
+      "$120^\\circ$",
+      "$135^\\circ$",
+      "$150^\\circ$"
+    ],
+    "answer": "C",
+    "image": "images/2331.jpg"
+  },
+  "2332": {
+    "id": "2332",
+    "question": "If $AB$ and $CD$ are perpendicular diameters of circle $Q$, $P$ in $\\overline{AQ}$, and $\\measuredangle QPC = 60^\\circ$, then the length of $PQ$ divided by the length of $AQ$ is\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\frac{\\sqrt{3}}{3}$",
+      "$\\frac{\\sqrt{2}}{2}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": "B",
+    "image": "images/2332.jpg"
+  },
+  "2334": {
+    "id": "2334",
+    "question": "In triangle $ABC$, $\\measuredangle CBA=72^\\circ$, $E$ is the midpoint of side $AC$, and $D$ is a point on side $BC$ such that $2BD=DC$; $AD$ and $BE$ intersect at $F$. The ratio of the area of triangle $BDF$ to the area of quadrilateral $FDCE$ is\n\n<image1>",
+    "options": [
+      "$\\frac{1}{5}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{5}$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "A",
+    "image": "images/2334.jpg"
+  },
+  "2335": {
+    "id": "2335",
+    "question": "In $\\triangle ABC$, $M$ is the midpoint of side $BC$, $AN$ bisects $\\angle BAC$, $BN\\perp AN$ and $\\theta$ is the measure of $\\angle BAC$.  If sides $AB$ and $AC$ have lengths $14$ and $19$, respectively, then length $MN$ equals\n\n<image1>",
+    "options": [
+      "$2$",
+      "$\\frac{5}{2}$",
+      "$\\frac{5}{2} - \\sin \\theta$",
+      "$\\frac{5}{2} - \\frac{1}{2} \\sin \\theta$",
+      "$\\frac{5}{2} - \\frac{1}{2} \\sin \\left(\\frac{1}{2} \\theta\\right)$"
+    ],
+    "answer": "B",
+    "image": "images/2335.jpg"
+  },
+  "2336": {
+    "id": "2336",
+    "question": "<image1>\n\nEquilateral $ \\triangle ABC$ is inscribed in a circle. A second circle is tangent internally to the circumcircle at $ T$ and tangent to sides $ AB$ and $ AC$ at points $ P$ and $ Q$. If side $ BC$ has length $ 12$, then segment $ PQ$ has length",
+    "options": [
+      "$6$",
+      "$6\\sqrt{3}$",
+      "$8$",
+      "$8\\sqrt{3}$",
+      "$9$"
+    ],
+    "answer": "C",
+    "image": "images/2336.jpg"
+  },
+  "2337": {
+    "id": "2337",
+    "question": "<image1>\n\nIn triangle $ ABC$ in the adjoining figure, $ AD$ and $ AE$ trisect $ \\angle BAC$. The lengths of $ BD$, $ DE$ and $ EC$ are $ 2$, $ 3$, and $ 6$, respectively. The length of the shortest side of $ \\triangle ABC$ is",
+    "options": [
+      "$2\\sqrt{10}$",
+      "$11$",
+      "$6\\sqrt{6}$",
+      "$6$",
+      "$\\text{not uniquely determined by the given information}$"
+    ],
+    "answer": "A",
+    "image": "images/2337.jpg"
+  },
+  "2338": {
+    "id": "2338",
+    "question": "In the adjoining figure triangle $ ABC$ is inscribed in a circle. Point $ D$ lies on $ \\stackrel{\\frown}{AC}$ with $ \\stackrel{\\frown}{DC} = 30^\\circ$, and point $ G$ lies on $ \\stackrel{\\frown}{BA}$ with $ \\stackrel{\\frown}{BG}\\, > \\, \\stackrel{\\frown}{GA}$. Side $ AB$ and side $ AC$ each have length equal to the length of chord $ DG$, and $ \\angle CAB = 30^\\circ$. Chord $ DG$ intersects sides $ AC$ and $ AB$ at $ E$ and $ F$, respectively. The ratio of the area of $ \\triangle AFE$ to the area of $ \\triangle ABC$ is\n<image1>",
+    "options": [
+      "$\\frac{2 - \\sqrt{3}}{3}$",
+      "$\\frac{2\\sqrt{3} - 3}{3}$",
+      "$7\\sqrt{3} - 12$",
+      "$3\\sqrt{3} - 5$",
+      "$\\frac{9 - 5\\sqrt{3}}{3}$"
+    ],
+    "answer": "C",
+    "image": "images/2338.jpg"
+  },
+  "2340": {
+    "id": "2340",
+    "question": "In the adjoining figure, points $B$ and $C$ lie on line segment $AD$, and $AB$, $BC$, and $CD$ are diameters of circle $O$, $N$, and $P$, respectively. Circles $O$, $N$, and $P$ all have radius $15$ and the line $AG$ is tangent to circle $P$ at $G$. If $AG$ intersects circle $N$ at points $E$ and $F$, then chord $EF$ has length\n\n<image1>",
+    "options": [
+      "$20$",
+      "$15\\sqrt{2}$",
+      "$24$",
+      "$25$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "C",
+    "image": "images/2340.jpg"
+  },
+  "2341": {
+    "id": "2341",
+    "question": "In the adjoining figure of a rectangular solid, $\\angle DHG=45^\\circ$ and $\\angle FHB=60^\\circ$. Find the cosine of $\\angle BHD$.\n\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{3}}{6}$",
+      "$\\frac{\\sqrt{2}}{6}$",
+      "$\\frac{\\sqrt{6}}{3}$",
+      "$\\frac{\\sqrt{6}}{4}$",
+      "$\\frac{\\sqrt{6}-\\sqrt{2}}{4}$"
+    ],
+    "answer": "D",
+    "image": "images/2341.jpg"
+  },
+  "2342": {
+    "id": "2342",
+    "question": "In the adjoining figure, the triangle $ABC$ is a right triangle with $\\angle BCA=90^\\circ$. Median $CM$ is perpendicular to median $BN$, and side $BC=s$. The length of $BN$ is\n\n<image1>",
+    "options": [
+      "$s\\sqrt{2}$",
+      "$\\frac{3}{2}s\\sqrt{2}$",
+      "$2s\\sqrt{2}$",
+      "$\\frac{1}{2}s\\sqrt{5}$",
+      "$\\frac{1}{2}s\\sqrt{6}$"
+    ],
+    "answer": "E",
+    "image": "images/2342.jpg"
+  },
+  "2343": {
+    "id": "2343",
+    "question": "In the adjoining figure, the circle meets the sides of an equilateral triangle at six points. If $AG=2$, $GF=13$, $FC=1$, and $HJ=7$, then $DE$ equals\n\n<image1>",
+    "options": [
+      "$2\\sqrt{22}$",
+      "$7\\sqrt{3}$",
+      "$9$",
+      "$10$",
+      "$13$"
+    ],
+    "answer": "A",
+    "image": "images/2343.jpg"
+  },
+  "2344": {
+    "id": "2344",
+    "question": "The adjacent map is part of a city: the small rectangles are rocks, and the paths in between are streets. Each morning, a student walks from intersection A to intersection B, always walking along streets shown, and always going east or south. For variety, at each intersection where he has a choice, he chooses with probability $\\frac{1}{2}$ whether to go east or south. Find the probability that through any given morning, he goes through $C$.\n\n<image1>",
+    "options": [
+      "$\\frac{11}{32}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{4}{7}$",
+      "$\\frac{21}{32}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": "D",
+    "image": "images/2344.jpg"
+  },
+  "2345": {
+    "id": "2345",
+    "question": "In the adjoining plane figure, sides $AF$ and $CD$ are parallel, as are sides $AB$ and $EF$, and sides $BC$ and $ED$. Each side has length of 1.  Also, $\\measuredangle FAB = \\measuredangle BCD = 60^\\circ$. The area of the figure is\n\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$1$",
+      "$\\frac{3}{2}$",
+      "$\\sqrt{3}$",
+      "$2$"
+    ],
+    "answer": "D",
+    "image": "images/2345.jpg"
+  },
+  "2347": {
+    "id": "2347",
+    "question": "Triangle $\\triangle ABC$ in the figure has area $10$.  Points $D$, $E$ and $F$, all distinct from $A$, $B$ and $C$, are on sides $AB$, $BC$ and $CA$ respectively, and $AD = 2$, $DB = 3$.  If triangle $\\triangle ABE$ and quadrilateral $DBEF$ have equal areas, then that area is\n\n<image1>",
+    "options": [
+      "$4$",
+      "$5$",
+      "$6$",
+      "$\\frac{5}{3}\\sqrt{10}$",
+      "$\\text{not uniquely determined}$"
+    ],
+    "answer": "C",
+    "image": "images/2347.jpg"
+  },
+  "2348": {
+    "id": "2348",
+    "question": "Distinct points $A$ and $B$ are on a semicircle with diameter $MN$ and center $C$.  The point $P$ is on $CN$ and $\\angle CAP = \\angle CBP = 10^{\\circ}$.  If $\\stackrel{\\frown}{MA} = 40^{\\circ}$, then $\\stackrel{\\frown}{BN}$ equals\n\n<image1>",
+    "options": [
+      "$10^{\\circ}$",
+      "$15^{\\circ}$",
+      "$20^{\\circ}$",
+      "$25^{\\circ}$",
+      "$30^{\\circ}$"
+    ],
+    "answer": "C",
+    "image": "images/2348.jpg"
+  },
+  "2349": {
+    "id": "2349",
+    "question": "A rectangle intersects a circle as shown: $AB=4$, $BC=5$, and $DE=3$. Then $EF$ equals:\n\n<image1>",
+    "options": [
+      "$6$",
+      "$7$",
+      "$\\frac{20}{3}$",
+      "$8$",
+      "$9$"
+    ],
+    "answer": "B",
+    "image": "images/2349.jpg"
+  },
+  "2350": {
+    "id": "2350",
+    "question": "A right triangle $ABC$ with hypotenuse $AB$ has side $AC = 15$. Altitude $CH$ divides $AB$ into segments $AH$ And $HB$, with $HB = 16$. The area of $\\triangle ABC$ is:\n<image1>",
+    "options": [
+      "$120$",
+      "$144$",
+      "$150$",
+      "$216$",
+      "$144\\sqrt{5}$"
+    ],
+    "answer": "C",
+    "image": "images/2350.jpg"
+  },
+  "2351": {
+    "id": "2351",
+    "question": "In the obtuse triangle $ABC$, $AM = MB, MD \\perp BC, EC \\perp BC$. If the area of $\\triangle ABC$ is 24, then the area of $\\triangle BED$ is\n\n<image1>",
+    "options": [
+      "$9$",
+      "$12$",
+      "$15$",
+      "$18$",
+      "$\\text{not uniquely determined}$"
+    ],
+    "answer": "B",
+    "image": "images/2351.jpg"
+  },
+  "2352": {
+    "id": "2352",
+    "question": "In an arcade game, the \"monster\" is the shaded sector of a circle of radius $ 1$ cm, as shown in the figure.  The missing piece (the mouth) has central angle $ 60^{\\circ}$.  What is the perimeter of the monster in cm?\n\n<image1>",
+    "options": [
+      "$\\pi + 2$",
+      "$2\\pi$",
+      "$\\frac{5}{3} \\pi$",
+      "$\\frac{5}{6} \\pi + 2$",
+      "$\\frac{5}{3} \\pi + 2$"
+    ],
+    "answer": "E",
+    "image": "images/2352.jpg"
+  },
+  "2353": {
+    "id": "2353",
+    "question": "In right $ \\triangle ABC$ with legs $ 5$ and $ 12$, arcs of circles are drawn, one with center $ A$ and radius $ 12$, the other with center $ B$ and radius $ 5$.  They intersect the hypotenuse at $ M$ and $ N$.  Then, $ MN$ has length:\n\n<image1>",
+    "options": [
+      "$2$",
+      "$\\frac{13}{5}$",
+      "$3$",
+      "$4$",
+      "$\\frac{24}{5}$"
+    ],
+    "answer": "D",
+    "image": "images/2353.jpg"
+  },
+  "2354": {
+    "id": "2354",
+    "question": "The odd positive integers $1,3,5,7,\\cdots,$ are arranged into in five columns continuing with the pattern shown on the right.  Counting from the left, the column in which $ 1985$ appears in is the\n\n<image1>",
+    "options": [
+      "$\\text{ first}$",
+      "$\\text{ second}$",
+      "$\\text{ third}$",
+      "$\\text{ fourth}$",
+      "$\\text{ fifth}$"
+    ],
+    "answer": "B",
+    "image": "images/2354.jpg"
+  },
+  "2357": {
+    "id": "2357",
+    "question": "In a circle with center $ O$, $ AD$ is a diameter, $ ABC$ is a chord, $ BO = 5$, and $ \\angle ABO = \\stackrel{\\frown}{CD} = 60^{\\circ}$.  Then the length of $ BC$ is:\n\n<image1>",
+    "options": [
+      "$3$",
+      "$3 + \\sqrt{3}$",
+      "$5 - \\frac{\\sqrt{3}}{2}$",
+      "$5$",
+      "$\\text{none of the above}$"
+    ],
+    "answer": "D",
+    "image": "images/2357.jpg"
+  },
+  "2358": {
+    "id": "2358",
+    "question": "In $ \\triangle ABC$, we have $ \\angle C = 3 \\angle A$, $ a = 27$, and $ c = 48$.  What is $ b$?\n\n<image1>",
+    "options": [
+      "$33$",
+      "$35$",
+      "$37$",
+      "$39$",
+      "$\\text{not uniquely determined}$"
+    ],
+    "answer": "B",
+    "image": "images/2358.jpg"
+  },
+  "2359": {
+    "id": "2359",
+    "question": "$\\triangle ABC$ is a right angle at $C$ and $\\angle A = 20^\\circ$. If $BD$ is the bisector of $\\angle ABC$, then $\\angle BDC =$\n<image1>",
+    "options": [
+      "$40^\\circ$",
+      "$45^\\circ$",
+      "$50^\\circ$",
+      "$55^\\circ$",
+      "$60^\\circ$"
+    ],
+    "answer": "D",
+    "image": "images/2359.jpg"
+  },
+  "2360": {
+    "id": "2360",
+    "question": "Using a table of a certain height, two identical blocks of wood are placed as shown in Figure 1.  Length $r$ is found to be $32$ inches.  After rearranging the blocks as in Figure 2, length $s$ is found to be $28$ inches.  How high is the table?\n\n<image1>",
+    "options": [
+      "$28\\text{ inches}$",
+      "$29\\text{ inches}$",
+      "$30\\text{ inches}$",
+      "$31\\text{ inches}$",
+      "$32\\text{ inches}$"
+    ],
+    "answer": "C",
+    "image": "images/2360.jpg"
+  },
+  "2363": {
+    "id": "2363",
+    "question": "In the configuration below, $\\theta$ is measured in radians, $C$ is the center of the circle, $BCD$ and $ACE$ are line segments and $AB$ is tangent to the circle at $A$.\n<image1>\n\nA necessary and sufficient condition for the equality of the two shaded areas, given $0 < \\theta < \\frac{\\pi}{2}$, is",
+    "options": [
+      "$\\tan \\theta = \\theta$",
+      "$\\tan \\theta = 2\\theta$",
+      "$\\tan \\theta = 4\\theta$",
+      "$\\tan 2\\theta = \\theta  \\$",
+      "$\\tan \\frac{\\theta}{2} = \\theta$"
+    ],
+    "answer": "B",
+    "image": "images/2363.jpg"
+  },
+  "2364": {
+    "id": "2364",
+    "question": "In the adjoining figure, $AB$ is a diameter of the circle, $CD$ is a chord parallel to $AB$, and $AC$ intersects $BD$ at $E$, with $\\angle AED = \\alpha$.  The ratio of the area of $\\triangle CDE$ to that of $\\triangle ABE$ is\n\n<image1>",
+    "options": [
+      "$\\cos \\alpha$",
+      "$\\sin \\alpha$",
+      "$\\cos^2\\alpha$",
+      "$\\sin^2\\alpha$",
+      "$1 - \\sin \\alpha$"
+    ],
+    "answer": "C",
+    "image": "images/2364.jpg"
+  },
+  "2365": {
+    "id": "2365",
+    "question": "$ABCDE$ is a regular pentagon.  $AP$, $AQ$ and $AR$ are the perpendiculars dropped from $A$ onto $CD$, $CB$ extended and $DE$ extended, respectively.  Let $O$ be the center of the pentagon.  If $OP = 1$, then $AO + AQ + AR$ equals\n\n<image1>",
+    "options": [
+      "$3$",
+      "$1 + \\sqrt{5}$",
+      "$4$",
+      "$2 + \\sqrt{5}$",
+      "$5$"
+    ],
+    "answer": "C",
+    "image": "images/2365.jpg"
+  },
+  "2366": {
+    "id": "2366",
+    "question": "A triangular corner with side lengths $DB=EB=1$ is cut from equilateral triangle $ABC$ of side length $3$. The perimeter of the remaining quadrilateral is\n\n<image1>",
+    "options": [
+      "$6$",
+      "$6\\frac{1}{2}$",
+      "$7$",
+      "$7\\frac{1}{2}$",
+      "$8$"
+    ],
+    "answer": "E",
+    "image": "images/2366.jpg"
+  },
+  "2367": {
+    "id": "2367",
+    "question": "In the $\\triangle ABC$ shown, $D$ is some interior point, and $x, y, z, w$ are the measures of angles in degrees. Solve for $x$ in terms of $y, z$ and $w$.\n<image1>",
+    "options": [
+      "$w-y-z$",
+      "$w-2y-2z$",
+      "$180-w-y-z \\$",
+      "$2w-y-z$",
+      "$180-w+y+z$"
+    ],
+    "answer": "A",
+    "image": "images/2367.jpg"
+  },
+  "2368": {
+    "id": "2368",
+    "question": "In the figure the sum of the distances $AD$ and $BD$ is\n<image1>",
+    "options": [
+      "$\\text{between 10 and 11}$",
+      "$12$",
+      "$\\text{between 15 and 16}$",
+      "$\\text{between 16 and 17}$",
+      "$17$"
+    ],
+    "answer": "C",
+    "image": "images/2368.jpg"
+  },
+  "2369": {
+    "id": "2369",
+    "question": "$ABCD$ is a square and $M$ and $N$ are the midpoints of $BC$ and $CD$ respectively. Then $\\sin \\theta=$\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{5}}{5}$",
+      "$\\frac{3}{5}$",
+      "$\\frac{\\sqrt{10}}{5}$",
+      "$\\frac{4}{5}$",
+      "$\\text{none of these}$"
+    ],
+    "answer": "B",
+    "image": "images/2369.jpg"
+  },
+  "2371": {
+    "id": "2371",
+    "question": "In the figure, $\\triangle ABC$ has $\\angle A =45^{\\circ}$ and $\\angle B =30^{\\circ}$. A line $DE$, with $D$ on $AB$ and $\\angle ADE =60^{\\circ}$, divides $\\triangle ABC$ into two pieces of equal area. (Note: the figure may not be accurate; perhaps $E$ is on $CB$ instead of $AC$.) The ratio $\\frac{AD}{AB}$ is\n<image1>",
+    "options": [
+      "$\\frac{1}{\\sqrt{2}}$",
+      "$\\frac{2}{2+\\sqrt{2}}$",
+      "$\\frac{1}{\\sqrt{3}}$",
+      "$\\frac{1}{\\sqrt[3]{6}}$",
+      "$\\frac{1}{\\sqrt[4]{12}}$"
+    ],
+    "answer": "E",
+    "image": "images/2371.jpg"
+  },
+  "2374": {
+    "id": "2374",
+    "question": "On each horizontal line in the figure below, the five large dots indicate the populations of cities $A$, $B$, $C$, $D$ and $E$ in the year indicated.  Which city had the greatest percentage increase in population from 1970 to 1980?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "C",
+    "image": "images/2374.jpg"
+  },
+  "2375": {
+    "id": "2375",
+    "question": "$ABC$ and $A'B'C'$ are equilateral triangles with parallel sides and the same center, as in the figure.  The distance between side $BC$ and side $B'C'$ is $\\frac{1}{6}$ the altitude of $\\triangle ABC$.  The ratio of the area of $\\triangle A'B'C'$ to the area of $\\triangle ABC$ is\n<image1>",
+    "options": [
+      "$\\frac{1}{36}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{\\sqrt{3}}{4}$",
+      "$\\frac{9+8\\sqrt{3}}{36}$"
+    ],
+    "answer": "C",
+    "image": "images/2375.jpg"
+  },
+  "2376": {
+    "id": "2376",
+    "question": "In one of the adjoining figures a square of side $2$ is dissected into four pieces so that $E$ and $F$ are the midpoints of opposite sides and $AG$ is perpendicular to $BF$.  These four pieces can then be reassembled into a rectangle as shown in the second figure.  The ratio of height to base, $XY$ / $YZ$, in this rectangle is\n\n<image1>",
+    "options": [
+      "$4$",
+      "$1+2\\sqrt{3}$",
+      "$2\\sqrt{5}$",
+      "$\\frac{8+4\\sqrt{3}}{3}$",
+      "$5$"
+    ],
+    "answer": "E",
+    "image": "images/2376.jpg"
+  },
+  "2377": {
+    "id": "2377",
+    "question": "In the figure, $AB \\perp BC$, $BC \\perp CD$, and $BC$ is tangent to the circle with center $O$ and diameter $AD$.  In which one of the following cases is the area of $ABCD$ an integer?\n\n<image1>",
+    "options": [
+      "AB=3, CD=1",
+      "AB=5, CD=2",
+      "AB=7, CD=3",
+      "AB=9, CD=4",
+      "AB=11, CD=5"
+    ],
+    "answer": "D",
+    "image": "images/2377.jpg"
+  },
+  "2381": {
+    "id": "2381",
+    "question": "In $\\triangle ABC, \\angle A = 100^\\circ, \\angle B = 50^\\circ, \\angle C = 30^\\circ, \\overline{AH}$ is an altitude, and $\\overline{BM}$ is a median. Then $\\angle MHC =$\n\n<image1>",
+    "options": [
+      "$15^\\circ$",
+      "$22.5^\\circ$",
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$45^\\circ$"
+    ],
+    "answer": "C",
+    "image": "images/2381.jpg"
+  },
+  "2382": {
+    "id": "2382",
+    "question": "Two strips of width 1 overlap at an angle of $\\alpha$ as shown. The area of the overlap (shown shaded) is\n\n<image1>",
+    "options": [
+      "$\\sin \\alpha$",
+      "$\\frac{1}{\\sin \\alpha}$",
+      "$\\frac{1}{1 - \\cos \\alpha}$",
+      "$\\frac{1}{\\sin^2 \\alpha}$",
+      "$\\frac{1}{(1 - \\cos \\alpha)^2}$"
+    ],
+    "answer": "B",
+    "image": "images/2382.jpg"
+  },
+  "2383": {
+    "id": "2383",
+    "question": "In $\\triangle ABC$, $AB = 5, BC = 7, AC = 9$ and $D$ is on $\\overline{AC}$ with $BD = 5$. Find the ratio of $AD: DC$.\n\n<image1>",
+    "options": [
+      "4:3",
+      "7:5",
+      "11:6",
+      "13:5",
+      "19:8"
+    ],
+    "answer": "E",
+    "image": "images/2383.jpg"
+  },
+  "2385": {
+    "id": "2385",
+    "question": "A particle moves through the first quadrant as follows. During the first minute it moves from the origin to $(1,0)$. Thereafter, it continues to follow the directions indicated in the figure, going back and forth between the positive $x$ and $y$ axes, moving one unit of distance parallel to an axis in each minute. At which point will the particle be after exactly $1989$ minutes?\n<image1>",
+    "options": [
+      "(35,44)",
+      "(36,45)",
+      "(37,45)",
+      "(44,35)",
+      "(45,36)"
+    ],
+    "answer": "D",
+    "image": "images/2385.jpg"
+  },
+  "2387": {
+    "id": "2387",
+    "question": "An acute isosceles triangle, $ABC$ is inscribed in a circle. Through $B$ and $C$, tangents to the circle are drawn, meeting at point $D$. If $\\angle ABC=\\angle ACB=2\\angle D$ and $x$ is the radian measure of $\\angle A$, then $x=$\n\n<image1>",
+    "options": [
+      "$\\frac{3}{7}\\pi$",
+      "$\\frac{4}{9}\\pi$",
+      "$\\frac{5}{11}\\pi$",
+      "$\\frac{6}{13}\\pi$",
+      "$\\frac{7}{15}\\pi$"
+    ],
+    "answer": "A",
+    "image": "images/2387.jpg"
+  },
+  "2389": {
+    "id": "2389",
+    "question": "Ten people form a circle. Each picks a number and tells it to the two neighbors adjacent to him in the circle. Then each person computes and announces the average of the numbers of his two neighbors. The figure shows the average announced by each person (not the original number the person picked). The number picked by the person who announced the average $6$ was\n<image1>",
+    "options": [
+      "$1$",
+      "$5$",
+      "$6$",
+      "$10$",
+      "$\\text{not uniquely determined from the given information}$"
+    ],
+    "answer": "A",
+    "image": "images/2389.jpg"
+  },
+  "2390": {
+    "id": "2390",
+    "question": "In the arrow-shaped polygon [see figure], the angles at vertices $A$, $C$, $D$, $E$ and $F$ are right angles, $BC = FG = 5$, $CD = FE = 20$, $DE = 10$, and $AB = AG$.  The area of the polygon is closest to\n\n<image1>",
+    "options": [
+      "288",
+      "291",
+      "294",
+      "297",
+      "300"
+    ],
+    "answer": "E",
+    "image": "images/2390.jpg"
+  },
+  "2392": {
+    "id": "2392",
+    "question": "Two circles are externally tangent.  Lines $\\overline{PAB}$ and $\\overline{PA'B'}$ are common tangents with $A$ and $A'$ on the smaller circle and $B$ and $B'$ on the larger circle.  If $PA = AB = 4$, then the area of the smaller circle is\n<image1>",
+    "options": [
+      "$1.44\\pi$",
+      "$2\\pi$",
+      "$2.56\\pi$",
+      "$\\sqrt{8}\\pi$",
+      "$4\\pi$"
+    ],
+    "answer": "B",
+    "image": "images/2392.jpg"
+  },
+  "2393": {
+    "id": "2393",
+    "question": "If $ABCD$ is a $2\\ X\\ 2$ square, $E$ is the midpoint of $\\overline{AB}$, $F$ is the midpoint of $\\overline{BC}$, $\\overline{AF}$ and $\\overline{DE}$ intersect at $I$, and $\\overline{BD}$ and $\\overline{AF}$ intersect at $H$, then the area of quadrilateral $BEIH$ is\n\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{7}{15}$",
+      "$\\frac{8}{15}$",
+      "$\\frac{3}{5}$"
+    ],
+    "answer": "C",
+    "image": "images/2393.jpg"
+  },
+  "2394": {
+    "id": "2394",
+    "question": "Equilateral triangle $ABC$ has been creased and folded so that vertex $A$ now rests at $A'$ on $\\overline{BC}$ as shown.  If $BA' = 1$ and $A'C = 2$ then the length of crease $\\overline{PQ}$ is\n<image1>",
+    "options": [
+      "$\\frac{8}{5}$",
+      "$\\frac{7}{20}\\sqrt{21}$",
+      "$\\frac{1+\\sqrt{5}}{2}$",
+      "$\\frac{13}{8}$",
+      "$\\sqrt{3}$"
+    ],
+    "answer": "B",
+    "image": "images/2394.jpg"
+  },
+  "2396": {
+    "id": "2396",
+    "question": "Five equilateral triangles, each with side $2\\sqrt{3}$, are arranged so they are all on the same side of a line containing one side of each.  Along this line, the midpoint of the base of one triangle is a vertex of the next.  The area of the region of the plane that is covered by the union of the five triangular regions is\n\n<image1>",
+    "options": [
+      "$10$",
+      "$12$",
+      "$15$",
+      "$10\\sqrt{3}$",
+      "$12\\sqrt{3}$"
+    ],
+    "answer": "E",
+    "image": "images/2396.jpg"
+  },
+  "2399": {
+    "id": "2399",
+    "question": "Semicircle $\\stackrel{\\frown}{AB}$ has center $C$ and radius $1$.  Point $D$ is on $\\stackrel{\\frown}{AB}$ and $\\overline{CD} \\perp \\overline{AB}$.  Extend $\\overline{BD}$ and $\\overline{AD}$ to $E$ and $F$, respectively, so that circular arcs $\\stackrel{\\frown}{AE}$ and $\\stackrel{\\frown}{BF}$ have $B$ and $A$ as their respective centers.  Circular arc $\\stackrel{\\frown}{EF}$ has center $D$.  The area of the shaded \"smile\", $AEFBDA$, is\n\n<image1>",
+    "options": [
+      "$(2 - \\sqrt{2})\\pi$",
+      "$2\\pi - \\pi\\sqrt{2} - 1$",
+      "$\\left(1 - \\frac{\\sqrt{2}}{2}\\right)\\pi$",
+      "$\\frac{5\\pi}{2} - \\pi\\sqrt{2} - 1$",
+      "$(3 - 2\\sqrt{2})\\pi$"
+    ],
+    "answer": "B",
+    "image": "images/2399.jpg"
+  },
+  "2400": {
+    "id": "2400",
+    "question": "In $\\triangle ABC$, $\\angle A=55^{\\circ}$, $\\angle C=75^{\\circ}$, $D$ is on side $\\overline{AB}$ and $E$ is on side $\\overline{BC}$. If $DB=BE$, then $\\angle BED=$\n<image1>",
+    "options": [
+      "$50^{\\circ}$",
+      "$55^{\\circ}$",
+      "$60^{\\circ}$",
+      "$65^{\\circ}$",
+      "$70^{\\circ}$"
+    ],
+    "answer": "D",
+    "image": "images/2400.jpg"
+  },
+  "2401": {
+    "id": "2401",
+    "question": "The convex pentagon $ABCDE$ has $\\angle A=\\angle B=120^{\\circ}$, $EA=AB=BC=2$ and $CD=DE=4$. What is the area of $ABCDE$?\n<image1>",
+    "options": [
+      "$10$",
+      "$7\\sqrt{3}$",
+      "$15$",
+      "$9\\sqrt{3}$",
+      "$12\\sqrt{5}$"
+    ],
+    "answer": "B",
+    "image": "images/2401.jpg"
+  },
+  "2402": {
+    "id": "2402",
+    "question": "Amy painted a dart board over a square clock face using the \"hour positions\" as boundaries. [See figure.] If $t$ is the area of one of the eight triangular regions such as that between $12$ o'clock and $1$ o'clock, and $q$ is the area of one of the four corner quadrilaterals such as that between $1$ o'clock and $2$ o'clock, then $\\frac{q}{t}=$\n<image1>",
+    "options": [
+      "$2\\sqrt{3}-2$",
+      "$\\frac{3}{2}$",
+      "$\\frac{\\sqrt{5}+1}{2}$",
+      "$\\sqrt{3}$",
+      "$2$"
+    ],
+    "answer": "A",
+    "image": "images/2402.jpg"
+  },
+  "2404": {
+    "id": "2404",
+    "question": "Points $A, B, C$ and $D$ are on a circle of diameter $1$, and $X$ is on diameter $\\overline{AD}$. If $BX=CX$ and $3 \\angle BAC=\\angle BXC=36^{\\circ}$, then $AX=$\n<image1>",
+    "options": [
+      "$\\cos 6^{\\circ}\\cos 12^{\\circ} \\sec 18^{\\circ}$",
+      "$\\cos 6^{\\circ}\\sin 12^{\\circ} \\csc 18^{\\circ}$",
+      "$\\cos 6^{\\circ}\\sin 12^{\\circ} \\sec 18^{\\circ} \\$",
+      "$\\sin 6^{\\circ}\\sin 12^{\\circ} \\csc 18^{\\circ}$",
+      "$\\sin 6^{\\circ} \\sin 12^{\\circ} \\sec 18^{\\circ}$"
+    ],
+    "answer": "B",
+    "image": "images/2404.jpg"
+  },
+  "2405": {
+    "id": "2405",
+    "question": "Let $S$ be the set of points on the rays forming the sides of a $120^{\\circ}$ angle, and let $P$ be a fixed point inside the angle on the angle bisector. Consider all distinct equilateral triangles $PQR$ with $Q$ and $R$ in $S$. (Points $Q$ and $R$ may be on the same ray, and switching the names of $Q$ and $R$ does not create a distinct triangle.) There are\n<image1>",
+    "options": [
+      "$\\text{exactly 2 such triangles} \\$",
+      "$\\text{exactly 3 such triangles} \\$",
+      "$\\text{exactly 7 such triangles} \\$",
+      "$\\text{exactly 15 such triangles} \\$",
+      "$\\text{more than 15 such triangles}$"
+    ],
+    "answer": "E",
+    "image": "images/2405.jpg"
+  },
+  "2410": {
+    "id": "2410",
+    "question": "In triangle $ABC$, $AB=AC$. If there is a point $P$ strictly between $A$ and $B$ such that $AP=PC=CB$, then $\\angle A =$\n<image1>",
+    "options": [
+      "$30^{\\circ}$",
+      "$36^{\\circ}$",
+      "$48^{\\circ}$",
+      "$60^{\\circ}$",
+      "$72^{\\circ}$"
+    ],
+    "answer": "B",
+    "image": "images/2410.jpg"
+  },
+  "2412": {
+    "id": "2412",
+    "question": "In the $xy$-plane, consider the L-shaped region bounded by horizontal and vertical segments with vertices at $(0,0), (0,3), (3,3), (3,1), (5,1)$ and $(5,0)$. The slope of the line through the origin that divides the area of this region exactly in half is\n<image1>",
+    "options": [
+      "$\\frac{2}{7}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{7}{9}$"
+    ],
+    "answer": "E",
+    "image": "images/2412.jpg"
+  },
+  "2414": {
+    "id": "2414",
+    "question": "Points $A, B$ and $C$ on a circle of radius $r$ are situated so that $AB=AC, AB>r$, and the length of minor arc $BC$ is $r$. If angles are measured in radians, then $AB/BC=$\n<image1>",
+    "options": [
+      "$\\frac{1}{2}\\csc{\\frac{1}{4}}$",
+      "$2\\cos{\\frac{1}{2}}$",
+      "$4\\sin{\\frac{1}{2}}$",
+      "$\\csc{\\frac{1}{2}}$",
+      "$2\\sec{\\frac{1}{2}}$"
+    ],
+    "answer": "A",
+    "image": "images/2414.jpg"
+  },
+  "2415": {
+    "id": "2415",
+    "question": "The figure shown can be folded into the shape of a cube. In the resulting cube, which of the lettered faces is opposite the face marked $x$?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "C",
+    "image": "images/2415.jpg"
+  },
+  "2416": {
+    "id": "2416",
+    "question": "In $\\triangle ABC$, $\\angle C = 90^\\circ, AC = 6$ and $BC = 8$. Points $D$ and $E$ are on $\\overline{AB}$ and $\\overline{BC}$, respectively, and $\\angle BED = 90^\\circ$. If $DE = 4$, then $BD =$\n\n<image1>",
+    "options": [
+      "$5$",
+      "$\\frac{16}{3}$",
+      "$\\frac{20}{3}$",
+      "$\\frac{15}{2}$",
+      "$8$"
+    ],
+    "answer": "C",
+    "image": "images/2416.jpg"
+  },
+  "2419": {
+    "id": "2419",
+    "question": "Equilateral triangle $DEF$ is inscribed in equilateral triangle $ABC$ such that $\\overline{DE} \\perp \\overline{BC}$. The ratio of the area of $\\triangle DEF$ to the area of $\\triangle ABC$ is\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2419.jpg"
+  },
+  "2420": {
+    "id": "2420",
+    "question": "In the figure, $\\overline{AB}$ and $\\overline{CD}$ are diameters of the circle with center $O$, $\\overline{AB} \\perp \\overline{CD}$, and chord $\\overline{DF}$ intersects $\\overline{AB}$ at $E$. If $DE = 6$ and $EF = 2$, then the area of the circle is\n<image1>",
+    "options": [
+      "$23\\pi$",
+      "$\\frac{47}{2}\\pi$",
+      "$24\\pi$",
+      "$\\frac{49}{2}\\pi$",
+      "$25\\pi$"
+    ],
+    "answer": "C",
+    "image": "images/2420.jpg"
+  },
+  "2423": {
+    "id": "2423",
+    "question": "Two opposite sides of a rectangle are each divided into $n$ congruent segments, and the endpoints of one segment are joined to the center to form triangle $A$. The other sides are each divided into $m$ congruent segments, and the endpoints of one of these segments are joined to the center to form triangle $B$. [See figure for $n = 5, m = 7$.]; What is the ratio of the area of triangle $A$ to the area of triangle $B$?\n\n<image1>",
+    "options": [
+      "1",
+      "m/n",
+      "n/m",
+      "2m/n",
+      "2n/m"
+    ],
+    "answer": "B",
+    "image": "images/2423.jpg"
+  },
+  "2425": {
+    "id": "2425",
+    "question": "The midpoints of the sides of a regular hexagon $ABCDEF$ are joined to form a smaller hexagon. What fraction of the area of $ABCDEF$ is enclosed by the smaller hexagon?\n<image1>",
+    "options": [
+      "$\\displaystyle \\frac{1}{2}$",
+      "$\\displaystyle \\frac{\\sqrt{3}}{3}$",
+      "$\\displaystyle \\frac{2}{3}$",
+      "$\\displaystyle \\frac{3}{4}$",
+      "$\\displaystyle \\frac{\\sqrt{3}}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2425.jpg"
+  },
+  "2426": {
+    "id": "2426",
+    "question": "Triangles $ABC$ and $ABD$ are isosceles with $AB =AC = BD$, and $BD$ intersects $AC$ at $E$. If $BD$ is perpendicular to $AC$, then $\\angle C + \\angle D$ is\n<image1>",
+    "options": [
+      "$115^\\circ$",
+      "$120^\\circ$",
+      "$130^\\circ$",
+      "$135^\\circ$",
+      "$\\text{not uniquely determined}$"
+    ],
+    "answer": "D",
+    "image": "images/2426.jpg"
+  },
+  "2429": {
+    "id": "2429",
+    "question": "In the figure, $ ABCD$ is a $ 2\\times 2$ square, $ E$ is the midpoint of $ \\overline{AD}$, and $ F$ is on $ \\overline{BE}$. If $ \\overline{CF}$ is perpendicular to $ \\overline{BE}$, then the area of quadrilateral $ CDEF$ is\n<image1>",
+    "options": [
+      "$2$",
+      "$3 - \\frac{\\sqrt{3}}{2}$",
+      "$\\frac{11}{5}$",
+      "$\\sqrt{5}$",
+      "$\\frac{9}{4}$"
+    ],
+    "answer": "C",
+    "image": "images/2429.jpg"
+  },
+  "2432": {
+    "id": "2432",
+    "question": "In the figure, polygons $ A$, $ E$, and $ F$ are isosceles right triangles; $ B$, $ C$, and $ D$ are squares with sides of length $ 1$; and $ G$ is an equilateral triangle. The figure can be folded along its edges to form a polyhedron having the polygons as faces.\n<image1>\nThe volume of this polyhedron is",
+    "options": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "5/6",
+      "4/3"
+    ],
+    "answer": "D",
+    "image": "images/2432.jpg"
+  },
+  "2434": {
+    "id": "2434",
+    "question": "<image1>\nEach of the sides of the five congruent rectangles is labeled with an integer, as shown above. These five rectangles are placed, without rotating or reflecting, in positions $I$ through $V$ so that the labels on coincident sides are equal.\n<image2>\nWhich of the rectangles is in position $I$?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2434.jpg"
+  },
+  "2435": {
+    "id": "2435",
+    "question": "A square $ ABCD$ with sides of length 1 is divided into two congruent trapezoids and a pentagon, which have equal areas, by joining the center of the square with points $ E,F,G$ where $ E$ is the midpoint of $ BC$, $ F,G$ are on $ AB$ and $ CD$, respectively, and they're positioned that $ AF < FB, DG < GC$ and $ F$ is the directly opposite of $ G$. If $ FB = x$, the length of the longer parallel side of each trapezoid, find the value of $ x$.\n<image1>",
+    "options": [
+      "$\\frac{3}{5}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{5}{6}$",
+      "$\\frac{7}{8}$"
+    ],
+    "answer": "D",
+    "image": "images/2435.jpg"
+  },
+  "2437": {
+    "id": "2437",
+    "question": "The figure shown is the union of a circle and two semicircles of diameters of $ a$ and $ b$, all of whose centers are collinear.\n<image1>\nThe ratio of the area of the shaded region to that of the unshaded region is",
+    "options": [
+      "$\\sqrt{\\frac{a}{b}}$",
+      "$\\frac{a}{b}$",
+      "$\\frac{a^2}{b^2}$",
+      "$\\frac{a + b}{2b}$",
+      "$\\frac{a^2 + 2ab}{b^2 + 2ab}$"
+    ],
+    "answer": "B",
+    "image": "images/2437.jpg"
+  },
+  "2440": {
+    "id": "2440",
+    "question": "A circle centered at $ O$ has radius $ 1$ and contains the point $ A$. Segment $ AB$ is tangent to the circle at $ A$ and $ \\angle{AOB} = \\theta$. If point $ C$ lies on $ \\overline{OA}$ and $ \\overline{BC}$ bisects $ \\angle{ABO}$, then $ OC =$\n\n<image1>",
+    "options": [
+      "$\\sec^2\\theta - \\tan\\theta$",
+      "$\\frac{1}{2}$",
+      "$\\frac{\\cos^2\\theta}{1 + \\sin\\theta}$",
+      "$\\frac{1}{1 + \\sin\\theta}$",
+      "$\\frac{\\sin\\theta}{\\cos^2\\theta}$"
+    ],
+    "answer": "D",
+    "image": "images/2440.jpg"
+  },
+  "2441": {
+    "id": "2441",
+    "question": "The graph below shows a portion of the curve defined by the quartic polynomial $ P(x) = x^4 + ax^3 + bx^2 + cx + d$. Which of the following is the smallest?\n<image1>",
+    "options": [
+      "$P( - 1)$",
+      "$\\text{The product of the zeros of }P$",
+      "$\\text{The product of the non - real zeros of }P$",
+      "$\\text{The sum of the coefficients of }P$",
+      "$\\text{The sum of the real zeros of }P$"
+    ],
+    "answer": "C",
+    "image": "images/2441.jpg"
+  },
+  "2444": {
+    "id": "2444",
+    "question": "A point $ P$ is selected at random from the interior of the pentagon with vertices $ A = (0,2)$, $B = (4,0)$, $C = (2 \\pi + 1, 0)$, $D = (2 \\pi + 1,4)$, and $ E = (0,4)$. What is the probability that $ \\angle APB$ is obtuse?\n<image1>",
+    "options": [
+      "$\\frac{1}{5}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{5}{16}$",
+      "$\\frac{3}{8}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2444.jpg"
+  },
+  "2445": {
+    "id": "2445",
+    "question": "A circle centered at $ A$ with a radius of 1 and a circle centered at $ B$ with a radius of 4 are externally tangent. A third circle is tangent to the first two and to one of their common external tangents as shown. The radius of the third circle is\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{5}{12}$",
+      "$\\frac{4}{9}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2445.jpg"
+  },
+  "2446": {
+    "id": "2446",
+    "question": "In rectangle $ ABCD$, points $ F$ and $ G$ lie on $ \\overline{AB}$ so that $ AF = FG = GB$ and $ E$ is the midpoint of $ \\overline{DC}$. Also, $ \\overline{AC}$ intersects $ \\overline{EF}$ at $ H$ and $ \\overline{EG}$ at $ J$. The area of the rectangle $ ABCD$ is $ 70$. Find the area of triangle $ EHJ$.\n<image1>",
+    "options": [
+      "$\\frac{5}{2}$",
+      "$\\frac{35}{12}$",
+      "$3$",
+      "$\\frac{7}{2}$",
+      "$\\frac{35}{8}$"
+    ],
+    "answer": "C",
+    "image": "images/2446.jpg"
+  },
+  "2447": {
+    "id": "2447",
+    "question": "In $ \\triangle ABC$, $ \\angle ABC = 45^\\circ$. Point $ D$ is on $ \\overline{BC}$ so that $ 2 \\cdot BD = CD$ and $ \\angle DAB = 15^\\circ$. Find $ \\angle ACB$.\n<image1>",
+    "options": [
+      "$54^\\circ$",
+      "$60^\\circ$",
+      "$72^\\circ$",
+      "$75^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answer": "D",
+    "image": "images/2447.jpg"
+  },
+  "2449": {
+    "id": "2449",
+    "question": "Triangle $ ABC$ is a right triangle with $ \\angle ACB$ as its right angle, $ m\\angle ABC = 60^\\circ$, and $ AB = 10$. Let $ P$ be randomly chosen inside $ \\triangle ABC$, and extend $ \\overline{BP}$ to meet $ \\overline{AC}$ at $ D$. What is the probability that $ BD > 5\\sqrt{2}$?\n\n<image1>",
+    "options": [
+      "$\\frac{2 - \\sqrt{2}}{2}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{3 - \\sqrt{3}}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{5 - \\sqrt{5}}{5}$"
+    ],
+    "answer": "C",
+    "image": "images/2449.jpg"
+  },
+  "2450": {
+    "id": "2450",
+    "question": "The nonzero coefficients of a polynomial $P$ with real coefficients are all replaced by their mean to form a polynomial $Q$. Which of the following could be a graph of $y = P(x)$ and $y = Q(x)$ over the interval $-4\\leq x \\leq 4$?\n<image1>\n<image2>\n<image3>\n<image4>\n<image5>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2450.jpg"
+  },
+  "2451": {
+    "id": "2451",
+    "question": "Points $ K$, $ L$, $ M$, and $ N$ lie in the plane of the square $ ABCD$ so that $ AKB$, $ BLC$, $ CMD$, and $ DNA$ are equilateral triangles. If $ ABCD$ has an area of $ 16$, find the area of $ KLMN$.\n\n<image1>",
+    "options": [
+      "$32$",
+      "$16 + 16\\sqrt{3}$",
+      "$48$",
+      "$32 + 16\\sqrt{3}$",
+      "$64$"
+    ],
+    "answer": "D",
+    "image": "images/2451.jpg"
+  },
+  "2452": {
+    "id": "2452",
+    "question": "Square $ ABCD$ has sides of length $ 4$, and $ M$ is the midpoint of $ \\overline{CD}$. A circle with radius $ 2$ and center $ M$ intersects a circle with raidus $ 4$ and center $ A$ at points $ P$ and $ D$. What is the distance from $ P$ to $ \\overline{AD}$?\n<image1>",
+    "options": [
+      "$3$",
+      "$\\frac{16}{5}$",
+      "$\\frac{13}{4}$",
+      "$2\\sqrt{3}$",
+      "$\\frac{7}{2}$"
+    ],
+    "answer": "B",
+    "image": "images/2452.jpg"
+  },
+  "2454": {
+    "id": "2454",
+    "question": "Part of the graph of $ f(x) = x^3 + bx^2 + cx + d$ is shown. What is $ b$?\n<image1>",
+    "options": [
+      "$-\\!4$",
+      "$-\\!2$",
+      "$0$",
+      "$2$",
+      "$4$"
+    ],
+    "answer": "B",
+    "image": "images/2454.jpg"
+  },
+  "2456": {
+    "id": "2456",
+    "question": "The graph of the line $ y = mx + b$ is shown. Which of the following is true?\n<image1>",
+    "options": [
+      "mb < - 1",
+      "- 1 < mb < 0",
+      "mb = 0",
+      "0 < mb < 1",
+      "mb > 1"
+    ],
+    "answer": "B",
+    "image": "images/2456.jpg"
+  },
+  "2458": {
+    "id": "2458",
+    "question": "Square $ ABCD$ has side length $ 2$. A semicircle with diameter $ \\overline{AB}$ is constructed inside the square, and the tangent to the semicricle from $ C$ intersects side $ \\overline{AD}$ at $ E$. What is the length of $ \\overline{CE}$?\n\n<image1>",
+    "options": [
+      "$\\frac{2 + \\sqrt{5}}{2}$",
+      "$\\sqrt{5}$",
+      "$\\sqrt{6}$",
+      "$\\frac{5}{2}$",
+      "$5 - \\sqrt{5}$"
+    ],
+    "answer": "D",
+    "image": "images/2458.jpg"
+  },
+  "2459": {
+    "id": "2459",
+    "question": "Circles $ A$, $ B$ and $ C$ are externally tangent to each other and internally tangent to circle $ D$. Circles $ B$ and $ C$ are congruent. Circle $ A$ has radius $ 1$ and passes through the center of $ D$. What is the radius of circle $ B$?\n<image1>",
+    "options": [
+      "$\\frac{2}{3}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\frac{7}{8}$",
+      "$\\frac{8}{9}$",
+      "$\\frac{1 + \\sqrt{3}}{3}$"
+    ],
+    "answer": "D",
+    "image": "images/2459.jpg"
+  },
+  "2460": {
+    "id": "2460",
+    "question": "In $ \\triangle ABC$ , $ AB = 13$, $ AC = 5$, and $ BC = 12$. Points $ M$ and $ N$ lie on $ \\overline{AC}$ and $ \\overline{BC}$, respectively, with $ CM = CN = 4$. Points $ J$ and $ K$ are on $ \\overline{AB}$ so that $ \\overline{MJ}$ and $ \\overline{NK}$ are perpendicular to $ \\overline{AB}$. What is the area of pentagon $ CMJKN$?\n<image1>",
+    "options": [
+      "$15$",
+      "$\\frac{81}{5}$",
+      "$\\frac{205}{12}$",
+      "$\\frac{240}{13}$",
+      "$20$"
+    ],
+    "answer": "D",
+    "image": "images/2460.jpg"
+  },
+  "2461": {
+    "id": "2461",
+    "question": "In $ \\triangle ABC$, $ AB = BC$, and $ BD$ is an altitude. Point $ E$ is on the extension of $ \\overline{AC}$ such that $ BE = 10$. The values of $ \\tan CBE$, $ \\tan DBE$, and $ \\tan ABE$ form a geometric progression, and the values of $ \\cot DBE$, $ \\cot CBE$, $ \\cot DBC$ form an arithmetic progression. What is the area of $ \\triangle ABC$?\n<image1>",
+    "options": [
+      "$16$",
+      "$\\frac{50}{3}$",
+      "$10\\sqrt{3}$",
+      "$8\\sqrt{5}$",
+      "$18$"
+    ],
+    "answer": "B",
+    "image": "images/2461.jpg"
+  },
+  "2463": {
+    "id": "2463",
+    "question": "A unit cube is cut twice to form three triangular prisms, two of which are congruent, as shown in Figure 1. The cube is then cut in the same manner along the dashed lines shown in Figure 2. This creates nine pieces. What is the volume of the piece that contains vertex $ W$?\n<image1>",
+    "options": [
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{9}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$"
+    ],
+    "answer": "A",
+    "image": "images/2463.jpg"
+  },
+  "2464": {
+    "id": "2464",
+    "question": "The vertices of a $ 3 - 4 - 5$ right triangle are the centers of three mutually externally tangent circles, as shown. What is the sum of the areas of the three circles?\n<image1>",
+    "options": [
+      "$12\\pi$",
+      "$\\frac{25\\pi}{2}$",
+      "$13\\pi$",
+      "$\\frac{27\\pi}{2}$",
+      "$14\\pi$"
+    ],
+    "answer": "E",
+    "image": "images/2464.jpg"
+  },
+  "2465": {
+    "id": "2465",
+    "question": "Square $ ABCD$ has side length $ s$, a circle centered at $ E$ has radius $ r$, and $ r$ and $ s$ are both rational. The circle passes through $ D$, and $ D$ lies on $ \\overline{BE}$. Point $ F$ lies on the circle, on the same side of $ \\overline{BE}$ as $ A$. Segment $ AF$ is tangent to the circle, and $ AF = \\sqrt{9 + 5\\sqrt{2}}$. What is $ r/s$?\n<image1>",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{5}{9}$",
+      "$\\frac{3}{5}$",
+      "$\\frac{5}{3}$",
+      "$\\frac{9}{5}$"
+    ],
+    "answer": "B",
+    "image": "images/2465.jpg"
+  },
+  "2466": {
+    "id": "2466",
+    "question": "Circles with centers $ (2,4)$ and $ (14,9)$ have radii 4 and 9, respectively. The equation of a common external tangent to the circles can be written in the form $ y = mx + b$ with $ m > 0$. What is $ b$?\n\n<image1>",
+    "options": [
+      "$\\frac{908}{199}$",
+      "$\\frac{909}{119}$",
+      "$\\frac{130}{17}$",
+      "$\\frac{911}{119}$",
+      "$\\frac{912}{119}$"
+    ],
+    "answer": "E",
+    "image": "images/2466.jpg"
+  },
+  "2469": {
+    "id": "2469",
+    "question": "A ship sails $ 10$ miles in a straight line from $ A$ to $ B$, turns through an angle between $ 45^{\\circ}$ and $ 60^{\\circ}$, and then sails another $ 20$ miles to $ C$. Let $ AC$ be measured in miles. Which of the following intervals contains $ AC^2$?\n<image1>",
+    "options": [
+      "[400,500]",
+      "[500,600]",
+      "[600,700]",
+      "[700,800]",
+      "[800,900]"
+    ],
+    "answer": "D",
+    "image": "images/2469.jpg"
+  },
+  "2473": {
+    "id": "2473",
+    "question": "There are 5 coins placed flat on a table according to the figure. What is the order of the coins from top to bottom?\n\n<image1>",
+    "options": [
+      "$(C, A, E, D, B)$",
+      "$(C, A, D, E, B)$",
+      "$(C, D, E, A, B) \\ [1ex]$",
+      "$(C, E, A, D, B)$",
+      "$(C, E, D, A, B)$"
+    ],
+    "answer": "E",
+    "image": "images/2473.jpg"
+  },
+  "2474": {
+    "id": "2474",
+    "question": "A unit cube has vertices $P_1, P_2, P_3, P_4, P_1', P_2', P_3'$, and $P_4'$. Vertices $P_2, P_3$, and $P_4$ are adjacent to $P_1$, and for $1\\leq i\\leq 4$, vertices $P_i$ and $P_i'$ are opposite to each other. A regular octahedron has one vertex in each of the segments $P_1P_2, P_1P_3, P_1P_4, P_1'P_2', P_1'P_3'$, and $P_1'P_4'$. What is the octahedron's side length?\n<image1>",
+    "options": [
+      "$\\frac{3\\sqrt{2}}{4}$",
+      "$\\frac{7\\sqrt{6}}{16}$",
+      "$\\frac{\\sqrt{5}}{2}$",
+      "$\\frac{2\\sqrt{3}}{3}$",
+      "$\\frac{\\sqrt{6}}{2}$"
+    ],
+    "answer": "A",
+    "image": "images/2474.jpg"
+  },
+  "2475": {
+    "id": "2475",
+    "question": "Square $AXYZ$ is inscribed in equiangular hexagon $ABCDEF$ with $X$ on $\\overline{BC}$, $Y$ on $\\overline{DE}$, and $Z$ on $\\overline{EF}$. Suppose that $AB=40$, and $EF=41(\\sqrt{3}-1)$. What is the side-length of the square?\n\n<image1>",
+    "options": [
+      "$29\\sqrt{3}$",
+      "$\\frac{21}{2}\\sqrt{2}+\\frac{41}{2}\\sqrt{3}$",
+      "$20\\sqrt{3}+16$",
+      "$20\\sqrt{2}+13\\sqrt{3}$",
+      "$21\\sqrt{6}$"
+    ],
+    "answer": "A",
+    "image": "images/2475.jpg"
+  },
+  "2476": {
+    "id": "2476",
+    "question": "Let $S=\\{(x,y) : x \\in \\{0,1,2,3,4\\}, y \\in \\{0,1,2,3,4,5\\}$, and $(x,y) \\neq (0,0) \\}$. Let $T$ be the set of all right triangles whose vertices are in $S$. For every right triangle $t=\\triangle ABC$ with vertices $A$, $B$, and $C$ in counter-clockwise order and right angle at $A$, let $f(t)= \\tan (\\angle CBA)$. What is\n\\[ \\prod_{t \\in T} f(t) \\] ?\n<image1>",
+    "options": [
+      "$1$",
+      "$\\frac{625}{144}$",
+      "$\\frac{125}{24}$",
+      "$6$",
+      "$\\frac{625}{24}$"
+    ],
+    "answer": "B",
+    "image": "images/2476.jpg"
+  },
+  "2477": {
+    "id": "2477",
+    "question": "Triangle $ABC$ is equilateral with $AB=1$. Points $E$ and $G$ are on $\\overline{AC}$ and points $D$ and $F$ are on $\\overline{AB}$ such that both $\\overline{DE}$ and $\\overline{FG}$ are parallel to $\\overline{BC}$. Furthermore, triangle $ADE$ and trapezoids $DFGE$ and $FBCG$ all have the same perimeter. What is $DE+FG$?\n<image1>",
+    "options": [
+      "$1$",
+      "$\\frac{3}{2}$",
+      "$\\frac{21}{13}$",
+      "$\\frac{13}{8}$",
+      "$\\frac{5}{3}$"
+    ],
+    "answer": "C",
+    "image": "images/2477.jpg"
+  },
+  "2479": {
+    "id": "2479",
+    "question": "A $4\\times 4\\times h$ rectangular box contains a sphere of radius $2$ and eight smaller spheres of radius $1$.  The smaller spheres are each tangent to three sides of the box, and the larger sphere is tangent to each of the smaller spheres.  What is $h$?\n\n<image1>",
+    "options": [
+      "$2+2\\sqrt{7}$",
+      "$3+2\\sqrt{5}$",
+      "$4+2\\sqrt{7}$",
+      "$4\\sqrt{5}$",
+      "$4\\sqrt{7}$"
+    ],
+    "answer": "A",
+    "image": "images/2479.jpg"
+  },
+  "2481": {
+    "id": "2481",
+    "question": "In the figure, $ABCD$ is a square of side length 1. The rectangles $JKHG$ and $EBCF$ are congruent. What is $BE$?\n<image1>",
+    "options": [
+      "$\\frac{1}{2}(\\sqrt{6}-2)$",
+      "$\\frac{1}{4}$",
+      "$2-\\sqrt{3}$",
+      "$\\frac{\\sqrt{3}}{6}$",
+      "$1-\\frac{\\sqrt{2}}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2481.jpg"
+  },
+  "2482": {
+    "id": "2482",
+    "question": "A collection of circles in the upper half-plane, all tangent to the $x$-axis, is constructed in layers as follows.  Layer $L_0$ consists of two circles of radii $70^2$ and $73^2$ that are externally tangent.  For $k\\geq 1$, the circles in $\\textstyle\\bigcup_{j=0}^{k-1} L_j$ are ordered according to their points of tangency with the $x$-axis.  For every pair of consecutive circles in this order, a new circle is constructed externally tangent to each of the two circles in the pair.  Layer $L_k$ consists of the $2^{k-1}$ circles constructed in this way.  Let $S=\\textstyle\\bigcup_{j=0}^6 L_j$, and for every circle $C$ denote by $r(C)$ its radius.  What is \\[\\sum_{C\\in S}\\frac{1}{\\sqrt{r(C)}}?\\]\n\n<image1>",
+    "options": [
+      "$\\frac{286}{35}$",
+      "$\\frac{583}{70}$",
+      "$\\frac{715}{73}$",
+      "$\\frac{143}{14}$",
+      "$\\frac{1573}{146}$"
+    ],
+    "answer": "D",
+    "image": "images/2482.jpg"
+  },
+  "2484": {
+    "id": "2484",
+    "question": "In $\\triangle ABC$, $AB = 6$, $BC = 7$, and $CA = 8$. Point $D$ lies on $\\overline{BC}$, and $\\overline{AD}$ bisects $\\angle BAC$. Point $E$ lies on $\\overline{AC}$, and $\\overline{BE}$ bisects $\\angle ABC$. The bisectors intersect at $F$. What is the ratio $AF$ : $FD$?\n\n<image1>",
+    "options": [
+      "3:2",
+      "5:3",
+      "2:1",
+      "7:3",
+      "5:2"
+    ],
+    "answer": "C",
+    "image": "images/2484.jpg"
+  },
+  "2485": {
+    "id": "2485",
+    "question": "In $\\triangle ABC$ shown in the figure, $AB=7$, $BC=8$, $CA=9$, and $\\overline{AH}$ is an altitude. Points $D$ and $E$ lie on sides $\\overline{AC}$ and $\\overline{AB}$, respectively, so that $\\overline{BD}$ and $\\overline{CE}$ are angle bisectors, intersecting $\\overline{AH}$ at $Q$ and $P$, respectively. What is $PQ$?\n\n<image1>",
+    "options": [
+      "$1$",
+      "$\\frac{5}{8}\\sqrt{3}$",
+      "$\\frac{4}{5}\\sqrt{2}$",
+      "$\\frac{8}{15}\\sqrt{5}$",
+      "$\\frac{6}{5}$"
+    ],
+    "answer": "D",
+    "image": "images/2485.jpg"
+  },
+  "2486": {
+    "id": "2486",
+    "question": "In the figure below, semicircles with centers at $A$ and $B$ and with radii $2$ and $1$, respectively, are drawn in the interior of, and sharing bases with, a semicircle with diameter $\\overline{JK}$. The two smaller semicircles are externally tangent to each other and internally tangent to the largest semicircle. A circle centered at $P$ is drawn externally tangent to the two smaller semicircles and internally tangent to the largest semicircle. What is the radius of the circle centered at $P$?\n\n<image1>",
+    "options": [
+      "$\\frac{3}{4}$",
+      "$\\frac{6}{7}$",
+      "$\\frac{1}{2}\\sqrt{3}$",
+      "$\\frac{5}{8}\\sqrt{2}$",
+      "$\\frac{11}{12}$"
+    ],
+    "answer": "B",
+    "image": "images/2486.jpg"
+  },
+  "2487": {
+    "id": "2487",
+    "question": "Square $ABCD$ has side length $30$. Point $P$ lies inside the square so that $AP = 12$ and $BP = 26$. The centroids of $\\triangle{ABP}$, $\\triangle{BCP}$, $\\triangle{CDP}$, and $\\triangle{DAP}$ are the vertices of a convex quadrilateral. What is the area of that quadrilateral?\n\n<image1>",
+    "options": [
+      "$100\\sqrt{2}$",
+      "$100\\sqrt{3}$",
+      "$200$",
+      "$200\\sqrt{2}$",
+      "$200\\sqrt{3}$"
+    ],
+    "answer": "C",
+    "image": "images/2487.jpg"
+  },
+  "2490": {
+    "id": "2490",
+    "question": "Right triangle $ACD$ with right angle at $C$ is constructed outwards on the hypotenuse $\\overline{AC}$ of isosceles right triangle $ABC$ with leg length $1$, as shown, so that the two triangles have equal perimeters. What is $\\sin(2\\angle BAD)$?\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{\\sqrt{2}}{2}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{7}{9}$",
+      "$\\frac{\\sqrt{3}}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2490.jpg"
+  },
+  "2491": {
+    "id": "2491",
+    "question": "The acronym AMC is shown in the rectangular grid below with grid lines spaced $1$ unit apart. In units, what is the sum of the lengths of the line segments that form the acronym AMC$?$\n\n<image1>",
+    "options": [
+      "$17$",
+      "$15 + 2\\sqrt{2}$",
+      "$13 + 4\\sqrt{2}$",
+      "$11 + 6\\sqrt{2}$",
+      "$21$"
+    ],
+    "answer": "C",
+    "image": "images/2491.jpg"
+  },
+  "2493": {
+    "id": "2493",
+    "question": "In the figure, equilateral hexagon $ABCDEF$ has three nonadjacent acute interior angles that each measure $30^\\circ$. The enclosed area of the hexagon is $6\\sqrt{3}$. What is the perimeter of the hexagon?\n<image1>",
+    "options": [
+      "4",
+      "$4\\sqrt{3}$",
+      "12",
+      "18",
+      "$12\\sqrt{3}$"
+    ],
+    "answer": "E",
+    "image": "images/2493.jpg"
+  },
+  "2494": {
+    "id": "2494",
+    "question": "Let $ABCD$ be an isosceles trapezoid with $\\overline{BC}\\parallel \\overline{AD}$ and $AB=CD$. Points $X$ and $Y$ lie on diagonal $\\overline{AC}$ with  $X$ between $A$ and $Y$, as shown in the figure. Suppose $\\angle AXD = \\angle BYC = 90^\\circ$, $AX = 3$, $XY = 1$, and $YC = 2$. What is the area of $ABCD?$\n\n<image1>",
+    "options": [
+      "$15$",
+      "$5\\sqrt{11}$",
+      "$3\\sqrt{35}$",
+      "$18$",
+      "$7\\sqrt{7}$"
+    ],
+    "answer": "C",
+    "image": "images/2494.jpg"
+  },
+  "2495": {
+    "id": "2495",
+    "question": "Let $ABCD$ be an isoceles trapezoid having parallel bases $\\overline{AB}$ and $\\overline{CD}$ with $AB>CD$. Line segments from a point inside $ABCD$ to the vertices divide the trapezoid into four triangles whose areas are $2, 3, 4,$ and $5$ starting with the triangle with base $\\overline{CD}$ and moving clockwise as shown in the diagram below. What is the ratio $\\frac{AB}{CD}?$\n\n<image1>",
+    "options": [
+      "$3$",
+      "$2+\\sqrt{2}$",
+      "$1+\\sqrt{6}$",
+      "$2\\sqrt{3}$",
+      "$3\\sqrt{2}$"
+    ],
+    "answer": "B",
+    "image": "images/2495.jpg"
+  },
+  "2497": {
+    "id": "2497",
+    "question": "Five rectangles, $A$, $B$, $C$, $D$, and $E$, are arranged in a square as shown below. These rectangles have dimensions $1\\times6$, $2\\times4$, $5\\times6$, $2\\times7$, and $2\\times3$, respectively. (The figure is not drawn to scale.) Which of the five rectangles is the shaded one in the middle?\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2497.jpg"
+  },
+  "2501": {
+    "id": "2501",
+    "question": "Usain is walking for exercise by zigzagging across a $100$-meter by $30$-meter rectangular field, beginning at point $A$ and ending on the segment $\\overline{BC}$. He wants to increase the distance walked by zigzagging as shown in the figure below $(APQRS)$. What angle $\\theta=\\angle PAB=\\angle QPC=\\angle RQB=\\cdots$ will produce in a length that is $120$ meters? (Do not assume the zigzag path has exactly four segments as shown; there could be more or fewer.)\n\n<image1>",
+    "options": [
+      "$\\arccos\\frac{5}{6}$",
+      "$\\arccos\\frac{4}{5}$",
+      "$\\arccos\\frac{3}{10}$",
+      "$\\arcsin\\frac{4}{5}$",
+      "$\\arcsin\\frac{5}{6}$"
+    ],
+    "answer": "A",
+    "image": "images/2501.jpg"
+  },
+  "2503": {
+    "id": "2503",
+    "question": "﻿A lampshade is made in the form of the lateral surface of the frustum of a right circular cone. The height of the frustum is $3\\sqrt{3}$ inches, its top diameter is 6 inches, and its bottom diameter is 12 inches. A bug is at the bottom of the lampshade and there is a glob of honey on the top edge of the lampshade at the spot farthest from the bug. The bug wants to crawl to the honey, but it must stay on the surface of the lampshade. What is the length in inches of its shortest path to the honey?\n\n<image1>",
+    "options": [
+      "$6 + 3\\pi$",
+      "$6 + 6\\pi$",
+      "$6\\sqrt{3}$",
+      "$6\\sqrt{5}$",
+      "$6\\sqrt{3} + \\pi$"
+    ],
+    "answer": "E",
+    "image": "images/2503.jpg"
+  },
+  "2505": {
+    "id": "2505",
+    "question": "<image1>\n\nThe bar graph shows the grades in a mathematics class for the last grading period.  If A, B, C, and D are satisfactory grades, what fraction of the grades shown in the graph are satisfactory?",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{9}{10}$"
+    ],
+    "answer": "C",
+    "image": "images/2505.jpg"
+  },
+  "2507": {
+    "id": "2507",
+    "question": "<image1>\n\nA piece of paper containing six joined squares labeled as shown in the diagram is folded along the edges of the squares to form a cube.  The label of the face opposite the face labeled $ \\text{X}$ is:",
+    "options": [
+      "$\\text{Z}$",
+      "$\\text{U}$",
+      "$\\text{V}$",
+      "$\\text{W}$",
+      "$\\text{Y}$"
+    ],
+    "answer": "E",
+    "image": "images/2507.jpg"
+  },
+  "2509": {
+    "id": "2509",
+    "question": "<image1>\n\nFive cards are lying on a table as shown.  Each card has a letter on one side and a whole number on the other side.  Jane said, \"If a vowel is on one side of any card, then an even number is on the other side.\"  Mary showed Jane was wrong by turning over one card.  Which card did Mary turn over?",
+    "options": [
+      "$3$",
+      "$4$",
+      "$6$",
+      "$\\text{P}$",
+      "$\\text{Q}$"
+    ],
+    "answer": "A",
+    "image": "images/2509.jpg"
+  },
+  "2511": {
+    "id": "2511",
+    "question": "<image1>\n\nThe table displays the grade distribution of the $ 30$ students in a mathematics class on the last two tests.  For example, exactly one student received a \"D\" on Test 1 and a \"C\" on Test 2.  What percent of the students received the same grade on both tests?",
+    "options": [
+      "$12 \\%$",
+      "$25 \\%$",
+      "$33 \\frac{1}{3} \\%$",
+      "$40 \\%$",
+      "$50 \\%$"
+    ],
+    "answer": "D",
+    "image": "images/2511.jpg"
+  },
+  "2512": {
+    "id": "2512",
+    "question": "<image1>\n\nGiven that all angles shown are marked, the perimeter of the polygon shown is",
+    "options": [
+      "$14$",
+      "$20$",
+      "$28$",
+      "$48$",
+      "$\\text{cannot be determined from the information given}$"
+    ],
+    "answer": "C",
+    "image": "images/2512.jpg"
+  },
+  "2515": {
+    "id": "2515",
+    "question": "<image1>\n\nThe large circle has diameter $ \\overline{AC}$.  The two small circles have their centers on $ \\overline{AC}$ and just touch at $ O$, the center of the large circle.  If each small circle has radius $ 1$, what is the value of the ratio of the area of the shaded region to the area of one of the small circles?",
+    "options": [
+      "$\\text{between }\\frac{1}{2} \\text{ and }1$",
+      "$1$",
+      "$\\text{between 1 and }\\frac{3}{2}$",
+      "$\\text{between }\\frac{3}{2} \\text{ and }2 \\\\$",
+      "$\\text{cannot be determined from the information given}$"
+    ],
+    "answer": "B",
+    "image": "images/2515.jpg"
+  },
+  "2516": {
+    "id": "2516",
+    "question": "The area of the rectangular region is\n\n<image1>",
+    "options": [
+      "$\\text{.088 m}^2$",
+      "$\\text{.62 m}^2$",
+      "$\\text{.88 m}^2$",
+      "$\\text{1.24 m}^2$",
+      "$\\text{4.22 m}^2$"
+    ],
+    "answer": "A",
+    "image": "images/2516.jpg"
+  },
+  "2518": {
+    "id": "2518",
+    "question": "What fraction of the large $12$ by $18$ rectangular region is shaded?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{108}$",
+      "$\\frac{1}{18}$",
+      "$\\frac{1}{12}$",
+      "$\\frac{2}{9}$",
+      "$\\frac{1}{3}$"
+    ],
+    "answer": "C",
+    "image": "images/2518.jpg"
+  },
+  "2519": {
+    "id": "2519",
+    "question": "$\\text{ABCD}$ is a rectangle, $\\text{D}$ is the center of the circle, and $\\text{B}$ is on the circle.  If $\\text{AD}=4$ and $\\text{CD}=3$, then the area of the shaded region is between\n\n<image1>",
+    "options": [
+      "$4\\text{ and }5$",
+      "$5\\text{ and }6$",
+      "$6\\text{ and }7$",
+      "$7\\text{ and }8$",
+      "$8\\text{ and }9$"
+    ],
+    "answer": "D",
+    "image": "images/2519.jpg"
+  },
+  "2520": {
+    "id": "2520",
+    "question": "The diagram shows part of a scale of a measuring device. The arrow indicates an approximate reading of\n<image1>",
+    "options": [
+      "10.05",
+      "10.15",
+      "10.25",
+      "10.3",
+      "10.6"
+    ],
+    "answer": "B",
+    "image": "images/2520.jpg"
+  },
+  "2522": {
+    "id": "2522",
+    "question": "If $ \\angle\\text{CBD} $ is a right angle, then this protractor indicates that the measure of $ \\angle\\text{ABC} $ is approximately\n\n<image1>",
+    "options": [
+      "$20^\\circ$",
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$70^\\circ$",
+      "$120^\\circ$"
+    ],
+    "answer": "B",
+    "image": "images/2522.jpg"
+  },
+  "2525": {
+    "id": "2525",
+    "question": "The shaded region formed by the two intersecting perpendicular rectangles, in square units, is\n\n<image1>",
+    "options": [
+      "$23$",
+      "$38$",
+      "$44$",
+      "$46$",
+      "$\\text{unable to be determined from the information given}$"
+    ],
+    "answer": "C",
+    "image": "images/2525.jpg"
+  },
+  "2527": {
+    "id": "2527",
+    "question": "<image1>\n\nThe square in the first diagram \"rolls\" clockwise around the fixed regular hexagon until it reaches the bottom. In which position will the solid triangle be in diagram $4$?\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2527.jpg"
+  },
+  "2529": {
+    "id": "2529",
+    "question": "Which of the five \"T-like shapes\" would be symmetric to the one shown with respect to the dashed line?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2529.jpg"
+  },
+  "2534": {
+    "id": "2534",
+    "question": "Suppose a square piece of paper is folded in half vertically.  The folded paper is then cut in half along the dashed line.  Three rectangles are formed-a large one and two small ones.  What is the ratio of the perimeter of one of the small rectangles to the perimeter of the large rectangle?\n<image1>",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{5}{6}$"
+    ],
+    "answer": "E",
+    "image": "images/2534.jpg"
+  },
+  "2535": {
+    "id": "2535",
+    "question": "Every time these two wheels are spun, two numbers are selected by the pointers.  What is the probability that the sum of the two selected numbers is even?\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{3}{7}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{5}{7}$"
+    ],
+    "answer": "C",
+    "image": "images/2535.jpg"
+  },
+  "2537": {
+    "id": "2537",
+    "question": "What fraction of the square is shaded?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{5}{12}$",
+      "$\\frac{3}{7}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "E",
+    "image": "images/2537.jpg"
+  },
+  "2538": {
+    "id": "2538",
+    "question": "On this monthly calendar, the date behind one of the letters is added to the date behind $C$. If this sum equals the sum of the dates behind $A$ and $B$, then the letter is\n\n<image1>",
+    "options": [
+      "$\\text{P}$",
+      "$\\text{Q}$",
+      "$\\text{R}$",
+      "$\\text{S}$",
+      "$\\text{T}$"
+    ],
+    "answer": "A",
+    "image": "images/2538.jpg"
+  },
+  "2540": {
+    "id": "2540",
+    "question": "The area of this figure is $ 100\\text{ cm}^{2} $. Its perimeter is\n\n\n<image1>",
+    "options": [
+      "$\\text{20 cm}$",
+      "$\\text{25 cm}$",
+      "$\\text{30 cm}$",
+      "$\\text{40 cm}$",
+      "$\\text{50 cm}$"
+    ],
+    "answer": "E",
+    "image": "images/2540.jpg"
+  },
+  "2542": {
+    "id": "2542",
+    "question": "The graph relates the distance traveled [in miles] to the time elapsed [in hours] on a trip taken by an experimental airplane. During which hour was the average speed of this airplane the largest?\n\n<image1>",
+    "options": [
+      "$\\text{first (0-1)}$",
+      "$\\text{second (1-2)}$",
+      "$\\text{third (2-3)}$",
+      "$\\text{ninth (8-9)}$",
+      "$\\text{last (11-12)}$"
+    ],
+    "answer": "B",
+    "image": "images/2542.jpg"
+  },
+  "2545": {
+    "id": "2545",
+    "question": "A \"domino\" is made up of two small squares:\n<image1>\nWhich of the \"checkerboards\" illustrated below CANNOT be covered exactly and completely by a whole number of non-overlapping dominoes?\n\n<image2>",
+    "options": [
+      "$3\\times 4$",
+      "$3\\times 5$",
+      "$4\\times 4$",
+      "$4\\times 5$",
+      "$6\\times 3$"
+    ],
+    "answer": "B",
+    "image": "images/2545.jpg"
+  },
+  "2547": {
+    "id": "2547",
+    "question": "All six sides of a rectangular solid were rectangles.  A one-foot cube was cut out of the rectangular solid as shown.  The total number of square feet in the surface of the new solid is how many more or less than that of the original solid?\n\n<image1>",
+    "options": [
+      "$2\\text{ less}$",
+      "$1\\text{ less}$",
+      "$\\text{the same}$",
+      "$1\\text{ more}$",
+      "$2\\text{ more}$"
+    ],
+    "answer": "C",
+    "image": "images/2547.jpg"
+  },
+  "2549": {
+    "id": "2549",
+    "question": "The vertical axis indicates the number of employees, but the scale was accidentally omitted from this graph.  What percent of the employees at the Gauss company have worked there for $5$ years or more?\n\n<image1>",
+    "options": [
+      "$9\\%$",
+      "$23\\frac{1}{3}\\%$",
+      "$30\\%$",
+      "$42\\frac{6}{7}\\%$",
+      "$50\\%$"
+    ],
+    "answer": "C",
+    "image": "images/2549.jpg"
+  },
+  "2551": {
+    "id": "2551",
+    "question": "Each spinner is divided into $3$ equal parts.  The results obtained from spinning the two spinners are multiplied.  What is the probability that this product is an even number?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{7}{9}$",
+      "$1$"
+    ],
+    "answer": "D",
+    "image": "images/2551.jpg"
+  },
+  "2552": {
+    "id": "2552",
+    "question": "An equilateral triangle is originally painted black.  Each time the triangle is changed, the middle fourth of each black triangle turns white.  After five changes, what fractional part of the original area of the black triangle remains black?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{1024}$",
+      "$\\frac{15}{64}$",
+      "$\\frac{243}{1024}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{81}{256}$"
+    ],
+    "answer": "C",
+    "image": "images/2552.jpg"
+  },
+  "2553": {
+    "id": "2553",
+    "question": "A circle of diameter $1$ is removed from a $2\\times 3$ rectangle, as shown.  Which whole number is closest to the area of the shaded region?\n\n<image1>",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "E",
+    "image": "images/2553.jpg"
+  },
+  "2557": {
+    "id": "2557",
+    "question": "The bar graph shows the results of a survey on color preferences.  What percent preferred blue?\n\n<image1>",
+    "options": [
+      "$20\\%$",
+      "$24\\%$",
+      "$30\\%$",
+      "$36\\%$",
+      "$42\\%$"
+    ],
+    "answer": "B",
+    "image": "images/2557.jpg"
+  },
+  "2558": {
+    "id": "2558",
+    "question": "<image1>\n\nWhich cylinder has twice the volume of the cylinder shown above?\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "None of the above"
+    ],
+    "answer": "B",
+    "image": "images/2558.jpg"
+  },
+  "2560": {
+    "id": "2560",
+    "question": "Which pattern of identical squares could NOT be folded along the lines shown to form a cube?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D",
+    "image": "images/2560.jpg"
+  },
+  "2561": {
+    "id": "2561",
+    "question": "Northside's Drum and Bugle Corps raised money for a trip.  The drummers and bugle players kept separate sales records.  According to the double bar graph, in what month did one group's sales exceed the other's by the greatest percent?\n\n<image1>",
+    "options": [
+      "$\\text{Jan}$",
+      "$\\text{Feb}$",
+      "$\\text{Mar}$",
+      "$\\text{Apr}$",
+      "$\\text{May}$"
+    ],
+    "answer": "B",
+    "image": "images/2561.jpg"
+  },
+  "2562": {
+    "id": "2562",
+    "question": "Eight $1\\times 1$ square tiles are arranged as shown so their outside edges form a polygon with a perimeter of $14$ units.  Two additional tiles of the same size are added to the figure so that at least one side of each tile is shared with a side of one of the squares in the original figure.  Which of the following could be the perimeter of the new figure?\n\n<image1>",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "answer": "C",
+    "image": "images/2562.jpg"
+  },
+  "2564": {
+    "id": "2564",
+    "question": "Which one of the following bar graphs could represent the data from the circle graph?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "C",
+    "image": "images/2564.jpg"
+  },
+  "2565": {
+    "id": "2565",
+    "question": "This line graph represents the price of a trading card during the first $6$ months of $1993$.\n<image1>\n\nThe greatest monthly drop in price occurred during",
+    "options": [
+      "$\\text{January}$",
+      "$\\text{March}$",
+      "$\\text{April}$",
+      "$\\text{May}$",
+      "$\\text{June}$"
+    ],
+    "answer": "B",
+    "image": "images/2565.jpg"
+  },
+  "2570": {
+    "id": "2570",
+    "question": "Which of the following represents the result when the figure shown below is rotated clockwise $120^\\circ$ about its center?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2570.jpg"
+  },
+  "2571": {
+    "id": "2571",
+    "question": "If $\\angle A = 60^\\circ $, $\\angle E = 40^\\circ $ and $\\angle C = 30^\\circ $, then $\\angle BDC = $\n\n<image1>",
+    "options": [
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$70^\\circ$",
+      "$80^\\circ$"
+    ],
+    "answer": "B",
+    "image": "images/2571.jpg"
+  },
+  "2572": {
+    "id": "2572",
+    "question": "Each of the three large squares shown below is the same size.  Segments that intersect the sides of the squares intersect at the midpoints of the sides.  How do the shaded areas of these squares compare?\n\n<image1>",
+    "options": [
+      "$\\text{The shaded areas in all three are equal.}$",
+      "$\\text{Only the shaded areas of }I\\text{ and }II\\text{ are equal.}$",
+      "$\\text{Only the shaded areas of }I\\text{ and }III\\text{ are equal.}$",
+      "$\\text{Only the shaded areas of }II\\text{ and }III\\text{ are equal.}$",
+      "$\\text{The shaded areas of }I, II\\text{ and }III\\text{ are all different.}$"
+    ],
+    "answer": "A",
+    "image": "images/2572.jpg"
+  },
+  "2573": {
+    "id": "2573",
+    "question": "If this path is to continue in the same pattern:\n<image1>\n\nthen which sequence of arrows goes from point $425$ to point $427$?\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "A",
+    "image": "images/2573.jpg"
+  },
+  "2574": {
+    "id": "2574",
+    "question": "Mike leaves home and drives slowly east through city traffic.  When he reaches the highway he drives east more rapidly until he reaches the shopping mall where he stops.  He shops at the mall for an hour.  Mike returns home by the same route as he came, driving west rapidly along the highway and then slowly through city traffic.  Each graph shows the distance from home on the vertical axis versus the time elapsed since leaving home on the horizontal axis.  Which graph is the best representation of Mike's trip?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2574.jpg"
+  },
+  "2576": {
+    "id": "2576",
+    "question": "The two wheels shown below are spun and the two resulting numbers are added.  The probability that the sum is even is\n\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{5}{12}$",
+      "$\\frac{4}{9}$"
+    ],
+    "answer": "D",
+    "image": "images/2576.jpg"
+  },
+  "2579": {
+    "id": "2579",
+    "question": "Jane can walk any distance in half the time it takes Hector to walk the same distance.  They set off in opposite directions around the outside of the 18-block area as shown.  When they meet for the first time, they will be closest to\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D",
+    "image": "images/2579.jpg"
+  },
+  "2580": {
+    "id": "2580",
+    "question": "In the figure, $\\angle A$, $\\angle B$, and $\\angle C$ are right angles.  If $\\angle AEB = 40^\\circ $ and $\\angle BED = \\angle BDE$, then $\\angle CDE = $\n\n<image1>",
+    "options": [
+      "$75^\\circ$",
+      "$80^\\circ$",
+      "$85^\\circ$",
+      "$90^\\circ$",
+      "$95^\\circ$"
+    ],
+    "answer": "E",
+    "image": "images/2580.jpg"
+  },
+  "2585": {
+    "id": "2585",
+    "question": "The letters $P$, $Q$, $R$, $S$, and $T$ represent numbers located on the number line as shown.\n<image1>\n\nWhich of the following expressions represents a negative number?",
+    "options": [
+      "$P-Q$",
+      "$P\\cdot Q$",
+      "$\\frac{S}{Q}\\cdot P$",
+      "$\\frac{R}{P\\cdot Q}$",
+      "$\\frac{S+T}{R}$"
+    ],
+    "answer": "A",
+    "image": "images/2585.jpg"
+  },
+  "2587": {
+    "id": "2587",
+    "question": "Figure $OPQR$ is a square.  Point $O$ is the origin, and point $Q$ has coordinates $(2,2)$.  What are the coordinates for $T$ so that the area of triangle $PQT$ equals the area of square $OPQR$?\n<image1>\n\nNOT TO SCALE",
+    "options": [
+      "(-6,0)",
+      "(-4,0)",
+      "(-2,0)",
+      "(2,0)",
+      "(4,0)"
+    ],
+    "answer": "C",
+    "image": "images/2587.jpg"
+  },
+  "2588": {
+    "id": "2588",
+    "question": "The pie charts below indicate the percent of students who prefer golf, bowling, or tennis at East Junior High School and West Middle School.  The total number of students at East is $2000$ and at West, $2500$.  In the two schools combined, the percent of students who prefer tennis is\n\n<image1>",
+    "options": [
+      "$30\\%$",
+      "$31\\%$",
+      "$32\\%$",
+      "$33\\%$",
+      "$34\\%$"
+    ],
+    "answer": "C",
+    "image": "images/2588.jpg"
+  },
+  "2589": {
+    "id": "2589",
+    "question": "The horizontal and vertical distances between adjacent points equal $1$ unit.  The area of triangle $ABC$ is\n\n<image1>",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1",
+      "5/4"
+    ],
+    "answer": "B",
+    "image": "images/2589.jpg"
+  },
+  "2590": {
+    "id": "2590",
+    "question": "The measure of angle $ABC$ is $50^\\circ $, $\\overline{AD}$ bisects angle $BAC$, and $\\overline{DC}$ bisects angle $BCA$.  The measure of angle $ADC$ is\n\n<image1>",
+    "options": [
+      "$90^\\circ$",
+      "$100^\\circ$",
+      "$115^\\circ$",
+      "$122.5^\\circ$",
+      "$125^\\circ$"
+    ],
+    "answer": "C",
+    "image": "images/2590.jpg"
+  },
+  "2591": {
+    "id": "2591",
+    "question": "What fraction of this square region is shaded?  Stripes are equal in width, and the figure is drawn to scale.\n\n<image1>",
+    "options": [
+      "$\\frac{5}{12}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{7}{12}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{5}{6}$"
+    ],
+    "answer": "C",
+    "image": "images/2591.jpg"
+  },
+  "2592": {
+    "id": "2592",
+    "question": "$\\angle 1 + \\angle 2 = 180^\\circ $\n\n$\\angle 3 = \\angle 4$\n\nFind $\\angle 4$.\n\n<image1>",
+    "options": [
+      "$20^\\circ$",
+      "$25^\\circ$",
+      "$30^\\circ$",
+      "$35^\\circ$",
+      "$40^\\circ$"
+    ],
+    "answer": "D",
+    "image": "images/2592.jpg"
+  },
+  "2593": {
+    "id": "2593",
+    "question": "Each side of the large square in the figure is trisected (divided into three equal parts).  The corners of an inscribed square are at these trisection points, as shown.  The ratio of the area of the inscribed square to the area of the large square is\n\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{3}}{3}$",
+      "$\\frac{5}{9}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{\\sqrt{5}}{3}$",
+      "$\\frac{7}{9}$"
+    ],
+    "answer": "B",
+    "image": "images/2593.jpg"
+  },
+  "2595": {
+    "id": "2595",
+    "question": "Each corner cube is removed from this $3\\text{ cm}\\times 3\\text{ cm}\\times 3\\text{ cm}$ cube.  The surface area of the remaining figure is\n\n<image1>",
+    "options": [
+      "$19\\text{ sq.cm}$",
+      "$24\\text{ sq.cm}$",
+      "$30\\text{ sq.cm}$",
+      "$54\\text{ sq.cm}$",
+      "$72\\text{ sq.cm}$"
+    ],
+    "answer": "D",
+    "image": "images/2595.jpg"
+  },
+  "2596": {
+    "id": "2596",
+    "question": "Diameter $ACE$ is divided at $C$ in the ratio $2:3$.  The two semicircles, $ABC$ and $CDE$, divide the circular region into an upper (shaded) region and a lower region.  The ratio of the area of the upper region to that of the lower region is\n\n<image1>",
+    "options": [
+      "2:3",
+      "1:1",
+      "3:2",
+      "9:4",
+      "5:2"
+    ],
+    "answer": "C",
+    "image": "images/2596.jpg"
+  },
+  "2599": {
+    "id": "2599",
+    "question": "What is the ratio of the area of the shaded square to the area of the large square? (The figure is drawn to scale)\n\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{7}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{16}$"
+    ],
+    "answer": "C",
+    "image": "images/2599.jpg"
+  },
+  "2600": {
+    "id": "2600",
+    "question": "As indicated by the diagram below, a rectangular piece of paper is folded bottom to top, then left to right, and finally, a hole is punched at X.\nWhat does the paper look like when unfolded?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2600.jpg"
+  },
+  "2602": {
+    "id": "2602",
+    "question": "If the pattern in the diagram continues, what fraction of the interior would be shaded in the eighth triangle?\n\n<image1>",
+    "options": [
+      "$\\frac{3}{8}$",
+      "$\\frac{5}{27}$",
+      "$\\frac{7}{16}$",
+      "$\\frac{9}{16}$",
+      "$\\frac{11}{45}$"
+    ],
+    "answer": "C",
+    "image": "images/2602.jpg"
+  },
+  "2605": {
+    "id": "2605",
+    "question": "Six squares are colored, front and back, (R = red, B = blue, O = orange, Y = yellow, G = green, and W = white). They are hinged together as shown, then folded to form a cube. The face opposite the white face is\n\n<image1>",
+    "options": [
+      "$\\text{B}$",
+      "$\\text{G}$",
+      "$\\text{O}$",
+      "$\\text{R}$",
+      "$\\text{Y}$"
+    ],
+    "answer": "A",
+    "image": "images/2605.jpg"
+  },
+  "2609": {
+    "id": "2609",
+    "question": "Figure 1 is called a \"stack map.\" The numbers tell how many cubes are stacked in each position. Fig. 2 shows these cubes, and Fig. 3 shows the view of the stacked cubes as seen from the front.\n\nWhich of the following is the front view for the stack map in Fig. 4?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2609.jpg"
+  },
+  "2611": {
+    "id": "2611",
+    "question": "Square $ABCD$  has sides of length 3. Segments $CM$  and $CN$ divide the square's area into three equal parts. How long is segment $CM$ ?\n\n<image1>",
+    "options": [
+      "$\\sqrt{10}$",
+      "$\\sqrt{12}$",
+      "$\\sqrt{13}$",
+      "$\\sqrt{14}$",
+      "$\\sqrt{15}$"
+    ],
+    "answer": "C",
+    "image": "images/2611.jpg"
+  },
+  "2613": {
+    "id": "2613",
+    "question": "In $1960$ only $5\\%$ of the working adults in Carlin City worked at home. By $1970$ the \"at-home\" work force increased to $8\\%$. In $1980$ there were approximately $15\\%$ working at home, and in $1990$ there were $30\\%$. The graph that best illustrates this is\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2613.jpg"
+  },
+  "2618": {
+    "id": "2618",
+    "question": "In triangle $CAT$, we have $\\angle ACT = \\angle ATC$ and $\\angle CAT = 36^\\circ$. If $\\overline{TR}$ bisects $\\angle ATC$, then $\\angle CRT =$\n\n<image1>",
+    "options": [
+      "$36^\\circ$",
+      "$54^\\circ$",
+      "$72^\\circ$",
+      "$90^\\circ$",
+      "$108^\\circ$"
+    ],
+    "answer": "C",
+    "image": "images/2618.jpg"
+  },
+  "2620": {
+    "id": "2620",
+    "question": "Consider these two geoboard quadrilaterals. Which of the following statements is true?\n\n<image1>",
+    "options": [
+      "$\\text{The area of quadrilateral I is more than the area of quadrilateral II.}$",
+      "$\\text{The area of quadrilateral I is less than the area of quadrilateral II.}$",
+      "$\\text{The quadrilaterals have the same area and the same perimeter.}$",
+      "$\\text{The quadrilaterals have the same area, but the perimeter of I is more than the perimeter of II.}$",
+      "$\\text{The quadrilaterals have the same area, but the perimeter of I is less than the perimeter of II.}$"
+    ],
+    "answer": "E",
+    "image": "images/2620.jpg"
+  },
+  "2621": {
+    "id": "2621",
+    "question": "Three circular arcs of radius $5$ units bound the region shown. Arcs $AB$ and $AD$ are quarter-circles, and arc $BCD$ is a semicircle. What is the area, in square units, of the region?\n\n<image1>",
+    "options": [
+      "$25$",
+      "$10 + 5\\pi$",
+      "$50$",
+      "$50 + 5\\pi$",
+      "$25\\pi$"
+    ],
+    "answer": "C",
+    "image": "images/2621.jpg"
+  },
+  "2623": {
+    "id": "2623",
+    "question": "If $\\angle A = 20^\\circ$ and $\\angle AFG = \\angle AGF$, then $\\angle B + \\angle D = $\n\n<image1>",
+    "options": [
+      "$48^\\circ$",
+      "$60^\\circ$",
+      "$72^\\circ$",
+      "$80^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answer": "D",
+    "image": "images/2623.jpg"
+  },
+  "2629": {
+    "id": "2629",
+    "question": "A square piece of paper, 4 inches on a side, is folded in half vertically. Both layers are then cut in half parallel to the fold. Three new rectangles are formed, a large one and two small ones. What is the ratio of the perimeter of one of the small rectangles to the perimeter of the large rectangle?\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{5}{6}$"
+    ],
+    "answer": "E",
+    "image": "images/2629.jpg"
+  },
+  "2630": {
+    "id": "2630",
+    "question": "Car M traveled at a constant speed for a given time. This is shown by the dashed line. Car N traveled at twice the speed for the same distance. If Car N's speed and time are shown as solid line, which graph illustrates this?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D",
+    "image": "images/2630.jpg"
+  },
+  "2633": {
+    "id": "2633",
+    "question": "A birdbath is designed to overflow so that it will be self-cleaning. Water flows in at the rate of 20 milliliters per minute and drains at the rate of 18 milliliters per minute. One of these graphs shows the volume of water in the birdbath during the filling time and continuing into the overflow time. Which one is it?\n\n<image1>",
+    "options": [
+      "$\\text{A}$",
+      "$\\text{B}$",
+      "$\\text{C}$",
+      "$\\text{D}$",
+      "$\\text{E}$"
+    ],
+    "answer": "A",
+    "image": "images/2633.jpg"
+  },
+  "2636": {
+    "id": "2636",
+    "question": "$\\textbf{Juan's Old Stamping Grounds}$\nJuan organizes the stamps in his collection by country and by the decade in which they were issued.  The prices he paid for them at a stamp shop were: Brazil and France, 6 cents each, Peru 4 cents each, and Spain 5 cents each.  (Brazil and Peru are South American countries and France and Spain are in Europe.)\n<image1>\nIn dollars and cents, how much did his South American stampes issued before the '70s cost him?",
+    "options": [
+      "$\\textdollar 0.40$",
+      "$\\textdollar 1.06$",
+      "$\\textdollar 1.80$",
+      "$\\textdollar 2.38$",
+      "$\\textdollar 2.64$"
+    ],
+    "answer": "B",
+    "image": "images/2636.jpg"
+  },
+  "2637": {
+    "id": "2637",
+    "question": "$\\textbf{Juan's Old Stamping Grounds}$\nJuan organizes the stamps in his collection by country and by the decade in which they were issued.  The prices he paid for them at a stamp shop were: Brazil and France, 6 cents each, Peru 4 cents each, and Spain 5 cents each.  (Brazil and Peru are South American countries and France and Spain are in Europe.)\n<image1>\n\nThe average price of his '70s stamps is closest to",
+    "options": [
+      "$3.5 \\text{ cents}$",
+      "$4 \\text{ cents}$",
+      "$4.5 \\text{ cents}$",
+      "$5 \\text{ cents}$",
+      "$5.5 \\text{ cents}$"
+    ],
+    "answer": "E",
+    "image": "images/2637.jpg"
+  },
+  "2639": {
+    "id": "2639",
+    "question": "Which of the following polygons has the largest area?\n\n<image1>",
+    "options": [
+      "$\\text{A}$",
+      "$\\text{B}$",
+      "$\\text{C}$",
+      "$\\text{D}$",
+      "$\\text{E}$"
+    ],
+    "answer": "E",
+    "image": "images/2639.jpg"
+  },
+  "2640": {
+    "id": "2640",
+    "question": "Right isosceles triangles are constructed on the sides of a 3-4-5 right triangle, as shown.  A capital letter represents the area of each triangle.  Which one of the following is true?\n\n<image1>",
+    "options": [
+      "$X+Z=W+Y$",
+      "$W+X=Z$",
+      "$3X+4Y=5Z$",
+      "$X+W=\\frac{1}{2}(Y+Z)$",
+      "$X+Y=Z$"
+    ],
+    "answer": "E",
+    "image": "images/2640.jpg"
+  },
+  "2641": {
+    "id": "2641",
+    "question": "The area of triangle $ XYZ$ is 8 square inches.  Points $ A$ and $ B$ are midpoints of congruent segments $ \\overline{XY}$ and $ \\overline{XZ}$.  Altitude $ \\overline{XC}$ bisects $ \\overline{YZ}$.  What is the area (in square inches) of the shaded region?\n<image1>",
+    "options": [
+      "$1\\frac{1}{2}$",
+      "$2$",
+      "$2\\frac{1}{2}$",
+      "$3$",
+      "$3\\frac{1}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2641.jpg"
+  },
+  "2643": {
+    "id": "2643",
+    "question": "A portion of a corner of a tiled floor is shown.  If the entire floor is tiled in this way and each of the four corners  looks like this one, then what fraction of the tiled floor is made of darker tiles?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{3}$",
+      "$\\frac{4}{9}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{5}{9}$",
+      "$\\frac{5}{8}$"
+    ],
+    "answer": "B",
+    "image": "images/2643.jpg"
+  },
+  "2645": {
+    "id": "2645",
+    "question": "$\\textbf{Bake Sale}$\nFour friends, Art, Roger, Paul and Trisha, bake cookies, and all cookies have the same thickness. The shapes of the cookies differ, as shown.\n\n$\\circ$ Art's cookies are trapezoids:\n<image1>\n\n$\\circ$ Roger's cookies are rectangles:\n<image2>\n\n$\\circ$ Paul's cookies are parallelograms:\n<image3>\n\n$\\circ$ Trisha's cookies are triangles:\n<image4>\n\nEach friend uses the same amount of dough, and Art makes exactly 12 cookies. Who gets the fewest cookies from one batch of cookie dough?",
+    "options": [
+      "$\\text{Art}$",
+      "$\\text{Roger}$",
+      "$\\text{Paul}$",
+      "$\\text{Trisha}$",
+      "$\\text{There is a tie for fewest.}$"
+    ],
+    "answer": "A",
+    "image": "images/2645.jpg"
+  },
+  "2652": {
+    "id": "2652",
+    "question": "The following figures are composed of squares and circles. Which figure has a shaded region with largest area?\n<image1>",
+    "options": [
+      "$\\text{A only}$",
+      "$\\text{B only}$",
+      "$\\text{C only}$",
+      "$\\text{both A and B}$",
+      "$\\text{all are equal}$"
+    ],
+    "answer": "C",
+    "image": "images/2652.jpg"
+  },
+  "2653": {
+    "id": "2653",
+    "question": "In the pattern below, the cat (denoted as a large circle in the figures below) moves clockwise through the four squares  and the mouse (denoted as a dot in the figures below) moves counterclockwise through the eight exterior segments of the four squares.\n<image1>\n\nIf the pattern is continued, where would the cat and mouse be after the 247th move?",
+    "options": [
+      "<image2>",
+      "<image3>",
+      "<image4>",
+      "<image5>",
+      "<image6>"
+    ],
+    "answer": "A",
+    "image": "images/2653.jpg"
+  },
+  "2654": {
+    "id": "2654",
+    "question": "A ship travels from point A to point B along a semicircular path, centered at Island X. Then it travels along a straight path from B to C. Which of these graphs best shows the ship's distance from Island X as it moves along its course?\n\n<image1>",
+    "options": [
+      "<image2>",
+      "<image3>",
+      "<image4>",
+      "<image5>",
+      "<image6>"
+    ],
+    "answer": "B",
+    "image": "images/2654.jpg"
+  },
+  "2655": {
+    "id": "2655",
+    "question": "In the figure, the area of square WXYZ is $25 \\text{cm}^2$. The four smaller squares have sides 1 cm long, either parallel to or coinciding with the sides of the large square. In $\\Delta ABC$, $AB = AC$, and when $\\Delta ABC$ is folded over side BC, point A coincides with O, the center of square WXYZ. What is the area of $\\Delta ABC$, in square centimeters?\n\n<image1>",
+    "options": [
+      "$\\frac{15}4$",
+      "$\\frac{21}4$",
+      "$\\frac{27}4$",
+      "$\\frac{21}2$",
+      "$\\frac{27}2$"
+    ],
+    "answer": "C",
+    "image": "images/2655.jpg"
+  },
+  "2656": {
+    "id": "2656",
+    "question": "What is the area enclosed by the geoboard quadrilateral below?\n\n<image1>",
+    "options": [
+      "$15$",
+      "$18\\frac{1}{2}$",
+      "$22\\frac{1}{2}$",
+      "$27$",
+      "$41$"
+    ],
+    "answer": "C",
+    "image": "images/2656.jpg"
+  },
+  "2658": {
+    "id": "2658",
+    "question": "Spinners A and B are spun. On each spinner, the arrow is equally likely to land on each number. What is the probability that the product of the two spinners' numbers is even?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": "D",
+    "image": "images/2658.jpg"
+  },
+  "2659": {
+    "id": "2659",
+    "question": "Tess runs counterclockwise around rectangular block JKLM. She lives at corner J. Which graph could represent her straight-line distance from home?\n\n<image1>",
+    "options": [
+      "<image2>",
+      "<image3>",
+      "<image4>",
+      "<image5>",
+      "<image6>"
+    ],
+    "answer": "D",
+    "image": "images/2659.jpg"
+  },
+  "2661": {
+    "id": "2661",
+    "question": "Two $4\\times 4$ squares intersect at right angles, bisecting their intersecting sides, as shown. The circle's diameter is the segment between the two points of intersection. What is the area of the shaded region created by removing the circle from the squares?\n\n<image1>",
+    "options": [
+      "$16-4\\pi$",
+      "$16-2\\pi$",
+      "$28-4\\pi$",
+      "$28-2\\pi$",
+      "$32-2\\pi$"
+    ],
+    "answer": "D",
+    "image": "images/2661.jpg"
+  },
+  "2665": {
+    "id": "2665",
+    "question": "The results of a cross-country team's training run are graphed below. Which student has the greatest average speed?\n<image1>",
+    "options": [
+      "$\\text{Angela}$",
+      "$\\text{Briana}$",
+      "$\\text{Carla}$",
+      "$\\text{Debra}$",
+      "$\\text{Evelyn}$"
+    ],
+    "answer": "E",
+    "image": "images/2665.jpg"
+  },
+  "2668": {
+    "id": "2668",
+    "question": "Isosceles right triangle $ ABC$ encloses a semicircle of area $ 2\\pi$. The circle has its center $ O$ on hypotenuse $ \\overline{AB}$ and is tangent to sides $ \\overline{AC}$ and $ \\overline{BC}$. What is the area of triangle $ ABC$?\n\n<image1>",
+    "options": [
+      "$6$",
+      "$8$",
+      "$3\\pi$",
+      "$10$",
+      "$4\\pi$"
+    ],
+    "answer": "B",
+    "image": "images/2668.jpg"
+  },
+  "2669": {
+    "id": "2669",
+    "question": "A square with side length 2 and a circle share the same center. The total area of the regions that are inside the circle and outside the square is equal to the total area of the regions that are outside the circle and inside the square. What is the radius of the circle?\n\n<image1>",
+    "options": [
+      "$\\frac{2}{\\sqrt{\\pi}}$",
+      "$\\frac{1+\\sqrt{2}}{2}$",
+      "$\\frac{3}{2}$",
+      "$\\sqrt{3}$",
+      "$\\sqrt{\\pi}$"
+    ],
+    "answer": "A",
+    "image": "images/2669.jpg"
+  },
+  "2670": {
+    "id": "2670",
+    "question": "Initially, a spinner points west. Chenille moves it clockwise $ 2 \\frac{1}{4}$ revolutions and then counterclockwise $ 3 \\frac{3}{4}$ revolutions. In what direction does the spinner point after the two moves?\n\n<image1>",
+    "options": [
+      "$\\text{north}$",
+      "$\\text{east}$",
+      "$\\text{south}$",
+      "$\\text{west}$",
+      "$\\text{northwest}$"
+    ],
+    "answer": "B",
+    "image": "images/2670.jpg"
+  },
+  "2673": {
+    "id": "2673",
+    "question": "Jorge's teacher asks him to plot all the ordered pairs $ (w, l)$ of positive integers for which $ w$ is the width and $ l$ is the length of a rectangle with area 12. What should his graph look like?",
+    "options": [
+      "<image1>",
+      "<image2>",
+      "<image3>",
+      "<image4>",
+      "<image5>"
+    ],
+    "answer": "A",
+    "image": "images/2673.jpg"
+  },
+  "2674": {
+    "id": "2674",
+    "question": "Jeff rotates spinners $ P$, $ Q$ and $ R$ and adds the resulting numbers. What is the probability that his sum is an odd number?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": "B",
+    "image": "images/2674.jpg"
+  },
+  "2678": {
+    "id": "2678",
+    "question": "Six-hundred fifty students were surveyed about their pasta preferences. The choices were lasagna, manicotti, ravioli and spaghetti. The results of the survey are displayed in the bar graph. What is the ratio of the number of students who preferred spaghetti to the number of students who preferred manicotti?\n\n<image1>",
+    "options": [
+      "$\\frac{2}{5}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{5}{4}$",
+      "$\\frac{5}{3}$",
+      "$\\frac{5}{2}$"
+    ],
+    "answer": "E",
+    "image": "images/2678.jpg"
+  },
+  "2680": {
+    "id": "2680",
+    "question": "Tiles I, II, III and IV are translated so one tile coincides with each of the rectangles $A, B, C$ and $D$. In the final arrangement, the two numbers on any side common to two adjacent tiles must be the same. Which of the tiles is translated to Rectangle $C$?\n\n<image1>",
+    "options": [
+      "$I$",
+      "$II$",
+      "$III$",
+      "$IV$",
+      "$\\text{ cannot be determined}$"
+    ],
+    "answer": "D",
+    "image": "images/2680.jpg"
+  },
+  "2681": {
+    "id": "2681",
+    "question": "A unit hexagon is composed of a regular haxagon of side length 1 and its equilateral triangular extensions, as shown in the diagram. What is the ratio of the area of the extensions to the area of the original hexagon?\n\n<image1>",
+    "options": [
+      "1:1",
+      "6:5",
+      "3:2",
+      "2:1",
+      "3:1"
+    ],
+    "answer": "A",
+    "image": "images/2681.jpg"
+  },
+  "2682": {
+    "id": "2682",
+    "question": "Sets A and B, shown in the venn diagram, have the same number of elements. Thier union has 2007 elements and their intersection has 1001 elements. Find the number of elements in A.\n\n<image1>",
+    "options": [
+      "$03$",
+      "$1006$",
+      "$504$",
+      "$1507$",
+      "$1510$"
+    ],
+    "answer": "C",
+    "image": "images/2682.jpg"
+  },
+  "2683": {
+    "id": "2683",
+    "question": "Amanda Reckonwith draws five circles with radii 1, 2, 3, 4 and 5. Then for each circle she plots the point (C; A), where C is its circumference and A is its area. Which of the following could be her graph?",
+    "options": [
+      "<image1>",
+      "<image2>",
+      "<image3>",
+      "<image4>",
+      "<image5>"
+    ],
+    "answer": "A",
+    "image": "images/2683.jpg"
+  },
+  "2684": {
+    "id": "2684",
+    "question": "What is the area of the shaded pinwheel shown in the $5\\times 5$ grid?\n\n<image1>",
+    "options": [
+      "$4$",
+      "$6$",
+      "$8$",
+      "$10$",
+      "$12$"
+    ],
+    "answer": "B",
+    "image": "images/2684.jpg"
+  },
+  "2685": {
+    "id": "2685",
+    "question": "On the dart board shown in the figure, the outer circle has radius 6 and the inner circle has radius 3. Three radii divide each circle into the three congruent regions, with point values shown. The probability that a dart will hit a given region is proportional to to the area of the region. What two darts hit this board, the score is the sum of the point values in the regions. What is the probability that the score is odd?\n\n<image1>",
+    "options": [
+      "$\\frac{17}{36}$",
+      "$\\frac{35}{72}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{37}{72}$",
+      "$\\frac{19}{36}$"
+    ],
+    "answer": "B",
+    "image": "images/2685.jpg"
+  },
+  "2687": {
+    "id": "2687",
+    "question": "In the figure, what is the ratio of the area of the gray squares to the area of the white squares?\n<image1>",
+    "options": [
+      "3:10",
+      "3:8",
+      "3:7",
+      "3:5",
+      "1:1"
+    ],
+    "answer": "D",
+    "image": "images/2687.jpg"
+  },
+  "2690": {
+    "id": "2690",
+    "question": "A shape is created by joining seven unit cubes, as shown. What is the ratio of the volume in cubic units to the surface area in square units?\n\n<image1>",
+    "options": [
+      "1 : 6",
+      "7 : 36",
+      "1 : 5",
+      "7 : 30",
+      "6 : 25"
+    ],
+    "answer": "D",
+    "image": "images/2690.jpg"
+  },
+  "2691": {
+    "id": "2691",
+    "question": "Two circles that share the same center have radii $10$ meters and $20$ meters. An aardvark runs along the path shown, starting at $A$ and ending at $K$. How many meters does the aardvark run?\n<image1>",
+    "options": [
+      "$10\\pi+20$",
+      "$10\\pi+30$",
+      "$10\\pi+40$",
+      "$20\\pi+20$",
+      "$20\\pi+40$"
+    ],
+    "answer": "E",
+    "image": "images/2691.jpg"
+  },
+  "2692": {
+    "id": "2692",
+    "question": "Eight points are spaced around at intervals of one unit around a $2 \\times 2$ square, as shown. Two of the $8$ points are chosen at random. What is the probability that the two points are one unit apart?\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{2}{7}$",
+      "$\\frac{4}{11}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{4}{7}$"
+    ],
+    "answer": "B",
+    "image": "images/2692.jpg"
+  },
+  "2693": {
+    "id": "2693",
+    "question": "Jerry cuts a wedge from a $6$-cm cylinder of bologna as shown by the dashed curve. Which answer choice is closest to the volume of his wedge in cubic centimeters?\n<image1>",
+    "options": [
+      "48",
+      "75",
+      "151",
+      "192",
+      "603"
+    ],
+    "answer": "C",
+    "image": "images/2693.jpg"
+  },
+  "2694": {
+    "id": "2694",
+    "question": "In square $ABCE$, $AF=2FE$ and $CD=2DE$. What is the ratio of the area of $\\triangle BFD$ to the area of square $ABCE$?\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{2}{9}$",
+      "$\\frac{5}{18}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{7}{20}$"
+    ],
+    "answer": "C",
+    "image": "images/2694.jpg"
+  },
+  "2695": {
+    "id": "2695",
+    "question": "Margie's winning art design is shown. The smallest circle has radius 2 inches, with each successive circle's radius increasing by 2 inches. Approximately what percent of the design is black?\n\n<image1>",
+    "options": [
+      "42",
+      "44",
+      "45",
+      "46",
+      "48"
+    ],
+    "answer": "A",
+    "image": "images/2695.jpg"
+  },
+  "2697": {
+    "id": "2697",
+    "question": "The five pieces shown below can be arranged to form four of the five figures shown in the choices. Which figure cannot be formed?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2697.jpg"
+  },
+  "2700": {
+    "id": "2700",
+    "question": "On a checkerboard composed of 64 unit squares, what is the probability that a randomly chosen unit square does  not   touch the outer edge of the board?\n<image1>",
+    "options": [
+      "$\\frac{1}{16}$",
+      "$\\frac{7}{16}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{9}{16}$",
+      "$\\frac{49}{64}$"
+    ],
+    "answer": "D",
+    "image": "images/2700.jpg"
+  },
+  "2701": {
+    "id": "2701",
+    "question": "The two spinners shown are spun once and each lands on one of the numbered sectors. What is the probability that the sum of the numbers in the two sectors is prime?\n<image1>\n<image2>",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{7}{9}$",
+      "$\\frac{5}{6}$"
+    ],
+    "answer": "D",
+    "image": "images/2701.jpg"
+  },
+  "2704": {
+    "id": "2704",
+    "question": "A one-cubic-foot cube is cut into four pieces by three cuts parallel to the top face of the cube. The first cub is $\\frac{1}{2}$ foot from the top face. The second cut is $\\frac{1}{3}$ foot below the first cut, and the third cut is $\\frac{1}{17}$ foot below the second cut. From the top to the bottom the pieces are labeled A, B, C, and D. The pieces are then glued together end to end as shown in the second diagram. What is the total surface area of this solid in square feet?\n<image1>\n\n<image2>",
+    "options": [
+      "6$",
+      "$7$",
+      "$\\frac{419}{51}$",
+      "$\\frac{158}{17}$",
+      "$11$"
+    ],
+    "answer": "E",
+    "image": "images/2704.jpg"
+  },
+  "2706": {
+    "id": "2706",
+    "question": "The diagram shows an octagon consisting of $10$ unit squares. The portion below $\\overline{PQ}$ is a unit square and a triangle with base $5$. If $\\overline{PQ}$ bisects the area of the octagon, what is the ratio $\\frac{XQ}{QY}$?\n\n<image1>",
+    "options": [
+      "$\\frac{2}{5}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{5}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": "D",
+    "image": "images/2706.jpg"
+  },
+  "2707": {
+    "id": "2707",
+    "question": "A decorative window is made up of a rectangle with semicircles at either end. The ratio of $AD$ to $AB$ is $3:2$. And $AB$ is 30 inches. What is the ratio of the area of the rectangle to the combined area of the semicircle.\n\n<image1>",
+    "options": [
+      "$2:3$",
+      "$3:2$",
+      "$6:\\pi$",
+      "$9: \\pi$",
+      "$30 : \\pi$"
+    ],
+    "answer": "C",
+    "image": "images/2707.jpg"
+  },
+  "2708": {
+    "id": "2708",
+    "question": "The two circles pictured have the same center $C$. Chord $\\overline{AD}$ is tangent to the inner circle at $B$, $AC$ is $10$, and chord $\\overline{AD}$ has length $16$. What is the area between the two circles?\n\n<image1>",
+    "options": [
+      "$36 \\pi$",
+      "$49 \\pi$",
+      "$64 \\pi$",
+      "$81 \\pi$",
+      "$100 \\pi$"
+    ],
+    "answer": "C",
+    "image": "images/2708.jpg"
+  },
+  "2709": {
+    "id": "2709",
+    "question": "Semicircles $POQ$ and $ROS$ pass through the center of circle $O$. What is the ratio of the combined areas of the two semicircles to the area of circle $O$?\n<image1>",
+    "options": [
+      "$\\frac{\\sqrt{2}}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{\\pi}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{\\sqrt{2}}{2}$"
+    ],
+    "answer": "B",
+    "image": "images/2709.jpg"
+  },
+  "2710": {
+    "id": "2710",
+    "question": "Extend the square pattern of $8$ black and $17$ white square tiles by attaching a border of black tiles around the square. What is the ratio of black tiles to white tiles in the extended pattern?\n<image1>",
+    "options": [
+      "8:17",
+      "25:49",
+      "36:25",
+      "32:17",
+      "36:17"
+    ],
+    "answer": "D",
+    "image": "images/2710.jpg"
+  },
+  "2711": {
+    "id": "2711",
+    "question": "Each of the following four large congruent squares is subdivided into combinations of congruent triangles or rectangles and is partially bolded. What percent of the total area is partially bolded?\n\n\n<image1>",
+    "options": [
+      "$12\\frac{1}{2}$",
+      "$20$",
+      "$25$",
+      "$33 \\frac{1}{3}$",
+      "$37\\frac{1}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2711.jpg"
+  },
+  "2717": {
+    "id": "2717",
+    "question": "A circle with radius $1$ is inscribed in a square and circumscribed about another square as shown. Which fraction is closest to the ratio of the circle's shaded area to the area between the two squares?\n\n<image1>",
+    "options": [
+      "$\\frac{1}2$",
+      "$1$",
+      "$\\frac{3}2$",
+      "$2$",
+      "$\\frac{5}2$"
+    ],
+    "answer": "A",
+    "image": "images/2717.jpg"
+  },
+  "2719": {
+    "id": "2719",
+    "question": "A circle of radius 2 is cut into four congruent arcs. The four arcs are joined to form the star figure shown. What is the ratio of the area of the star figure to the area of the original circle?\n\n<image1>",
+    "options": [
+      "$\\frac{4-\\pi}\\pi$",
+      "$\\frac{1}{\\pi}$",
+      "$\\frac{\\sqrt{2}}{\\pi}$",
+      "$\\frac{\\pi-1}\\pi$",
+      "$\\frac{3}{\\pi}$"
+    ],
+    "answer": "A",
+    "image": "images/2719.jpg"
+  },
+  "2720": {
+    "id": "2720",
+    "question": "A square with area 4 is inscribed in a square with area 5, with one vertex of the smaller square on each side of the larger square. A vertex of the smaller square divides a side of the larger square into two segments, one of length $a$, and the other of length $b$. What is the value of $ab$ ?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{5}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{1}{2}$",
+      "$1$",
+      "$4$"
+    ],
+    "answer": "C",
+    "image": "images/2720.jpg"
+  },
+  "2725": {
+    "id": "2725",
+    "question": "Squares $ABCD$, $EFGH$, and $GHIJ$ are equal in area. Points $C$ and $D$ are the midpoints of sides $IH$ ad $HE$, respectively. What is the ratio of the area of the shaded pentagon $AJICB$ to the sum of the areas of the three squares?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{7}{24}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{3}{8}$",
+      "$\\frac{5}{12}$"
+    ],
+    "answer": "C",
+    "image": "images/2725.jpg"
+  },
+  "2726": {
+    "id": "2726",
+    "question": "A ball with diameter 4 inches starts at point A to roll along the track shown. The track is comprised of 3 semicircular arcs whose radii are $R_1 = 100$ inches, $R_2 = 60$ inches, and $R_3 = 80$ inches, respectively. The ball always remains in contact with the track and does not slip. What is the distance the center of the ball travels over the course from A to B?\n<image1>",
+    "options": [
+      "$238\\pi$",
+      "$240\\pi$",
+      "$260\\pi$",
+      "$280\\pi$",
+      "$500\\pi$"
+    ],
+    "answer": "A",
+    "image": "images/2726.jpg"
+  },
+  "2731": {
+    "id": "2731",
+    "question": "A straight one-mile stretch of highway, $40$ feet wide, is closed. Robert rides his bike on a path composed of semicircles as shown. If he rides at $5$ miles per hour, how many hours will it take to cover the one-mile stretch?\n\nNote: $1$ mile= $5280$ feet\n\n<image1>",
+    "options": [
+      "$\\frac{\\pi}{11}$",
+      "$\\frac{\\pi}{10}$",
+      "$\\frac{\\pi}{5}$",
+      "$\\frac{2\\pi}{5}$",
+      "$\\frac{2\\pi}{3}$"
+    ],
+    "answer": "B",
+    "image": "images/2731.jpg"
+  },
+  "2732": {
+    "id": "2732",
+    "question": "Point $O$ is the center of the regular octagon $ABCDEFGH$, and $X$ is the midpoint of the side $\\overline{AB}$. What fraction of the area of the octagon is shaded?\n<image1>",
+    "options": [
+      "$\\frac{11}{32}$",
+      "$\\frac{3}{8}$",
+      "$\\frac{13}{32}$",
+      "$\\frac{7}{16}$",
+      "$\\frac{15}{32}$"
+    ],
+    "answer": "D",
+    "image": "images/2732.jpg"
+  },
+  "2735": {
+    "id": "2735",
+    "question": "A triangle with vertices as $A=(1,3)$, $B=(5,1)$, and $C=(4,4)$ is plotted on a $6\\times5$ grid. What fraction of the grid is covered by the triangle?\n<image1>",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{5}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "A",
+    "image": "images/2735.jpg"
+  },
+  "2736": {
+    "id": "2736",
+    "question": "In the given figure hexagon $ABCDEF$ is equiangular, $ABJI$ and $FEHG$ are squares with areas $18$ and $32$ respectively, $\\triangle JBK$ is equilateral and $FE=BC$. What is the area of $\\triangle KBC$?\n<image1>",
+    "options": [
+      "$6\\sqrt{2}$",
+      "$9$",
+      "$12$",
+      "$9\\sqrt{2}$",
+      "$32$"
+    ],
+    "answer": "C",
+    "image": "images/2736.jpg"
+  },
+  "2737": {
+    "id": "2737",
+    "question": "One-inch squares are cut from the corners of this 5 inch square.  What is the area in square inches of the largest square that can be fitted into the remaining space?\n<image1>",
+    "options": [
+      "$9$",
+      "$12\\frac{1}{2}$",
+      "$15$",
+      "$15\\frac{1}{2}$",
+      "$17$"
+    ],
+    "answer": "C",
+    "image": "images/2737.jpg"
+  },
+  "2739": {
+    "id": "2739",
+    "question": "Rectangle $DEFA$ below is a $3 \\times 4$ rectangle with $DC=CB=BA$.  The area of the \"bat wings\" is\n<image1>",
+    "options": [
+      "$2$",
+      "$2 \\frac{1}{2}$",
+      "$3$",
+      "$3 \\frac{1}{2}$",
+      "$5$"
+    ],
+    "answer": "C",
+    "image": "images/2739.jpg"
+  },
+  "2740": {
+    "id": "2740",
+    "question": "A semicircle is inscribed in an isosceles triangle with base $16$ and height $15$ so that the diameter of the semicircle is contained in the base of the triangle as shown. What is the radius of the semicircle?\n\n<image1>",
+    "options": [
+      "$4 \\sqrt{3}$",
+      "$\\frac{120}{17}$",
+      "$10$",
+      "$\\frac{17\\sqrt{2}}{2}$",
+      "$\\frac{17\\sqrt{3}}{2}$"
+    ],
+    "answer": "B",
+    "image": "images/2740.jpg"
+  },
+  "2743": {
+    "id": "2743",
+    "question": "In the figure below, choose point $D$ on $\\overline{BC}$ so that $\\triangle ACD$ and $\\triangle ABD$ have equal perimeters. What is the area of $\\triangle ABD$?\n<image1>",
+    "options": [
+      "$\\frac{3}{4}$",
+      "$\\frac{3}{2}$",
+      "$2$",
+      "$\\frac{12}{5}$",
+      "$\\frac{5}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2743.jpg"
+  },
+  "2745": {
+    "id": "2745",
+    "question": "In the right triangle $ABC$, $AC=12$, $BC=5$, and angle $C$ is a right angle. A semicircle is inscribed in the triangle as shown. What is the radius of the semicircle?\n<image1>",
+    "options": [
+      "$\\frac{7}{6}$",
+      "$\\frac{13}{5}$",
+      "$\\frac{59}{18}$",
+      "$\\frac{10}{3}$",
+      "$\\frac{60}{13}$"
+    ],
+    "answer": "D",
+    "image": "images/2745.jpg"
+  },
+  "2746": {
+    "id": "2746",
+    "question": "In the figure shown, $\\overline{US}$ and $\\overline{UT}$ are line segments each of length 2, and $m\\angle TUS = 60^\\circ$. Arcs $\\overarc{TR}$ and $\\overarc{SR}$ are each one-sixth of a circle with radius 2. What is the area of the region shown?\n<image1>",
+    "options": [
+      "$3\\sqrt{3}-\\pi$",
+      "$4\\sqrt{3}-\\frac{4\\pi}{3}$",
+      "$2\\sqrt{3}$",
+      "$4\\sqrt{3}-\\frac{2\\pi}{3}$",
+      "$4+\\frac{4\\pi}{3}$"
+    ],
+    "answer": "B",
+    "image": "images/2746.jpg"
+  },
+  "2749": {
+    "id": "2749",
+    "question": "In the diagram below, a diameter of each of the two smaller circles is a radius of the larger circle. If the two smaller circles have a combined area of $1$ square unit, then what is the area of the shaded region, in square units?\n\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$1$",
+      "$\\frac{\\pi}{2}$"
+    ],
+    "answer": "D",
+    "image": "images/2749.jpg"
+  },
+  "2751": {
+    "id": "2751",
+    "question": "In $\\triangle ABC,$ a point $E$ is on $\\overline{AB}$ with $AE=1$ and $EB=2$. Point $D$ is on $\\overline{AC}$ so that $\\overline{DE} \\parallel \\overline{BC}$ and point $F$ is on $\\overline{BC}$ so that $\\overline{EF} \\parallel \\overline{AC}$. What is the ratio of the area of $CDEF$ to the area of $\\triangle ABC?$\n\n<image1>",
+    "options": [
+      "$\\frac{4}{9}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{5}{9}$",
+      "$\\frac{3}{5}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": "A",
+    "image": "images/2751.jpg"
+  },
+  "2753": {
+    "id": "2753",
+    "question": "From a regular octagon, a triangle is formed by connecting three randomly chosen vertices of the octagon. What is the probability that at least one of the sides of the triangle is also a side of the octagon?\n\n<image1>",
+    "options": [
+      "$\\frac{2}{7}$",
+      "$\\frac{5}{42}$",
+      "$\\frac{11}{14}$",
+      "$\\frac{5}{7}$",
+      "$\\frac{6}{7}$"
+    ],
+    "answer": "D",
+    "image": "images/2753.jpg"
+  },
+  "2754": {
+    "id": "2754",
+    "question": "In the cube $ABCDEFGH$ with opposite vertices $C$ and $E,$ $J$ and $I$ are the midpoints of edges $\\overline{FB}$ and $\\overline{HD},$ respectively. Let $R$ be the ratio of the area of the cross-section $EJCI$ to the area of one of the faces of the cube. What is $R^2?$\n\n<image1>",
+    "options": [
+      "$\\frac{5}{4}$",
+      "$\\frac{4}{3}$",
+      "$\\frac{3}{2}$",
+      "$\\frac{25}{16}$",
+      "$\\frac{9}{4}$"
+    ],
+    "answer": "C",
+    "image": "images/2754.jpg"
+  },
+  "2757": {
+    "id": "2757",
+    "question": "A tortoise challenges a hare to a race. The hare eagerly agrees and quickly runs ahead, leaving the slow-moving tortoise behind. Confident that he will win, the hare stops to take a nap. Meanwhile, the tortoise walks at a slow steady pace for the entire race. The hare awakes and runs to the finish line, only to find the tortoise already there. Which of the following graphs matches the description of the race, showing the distance $d$ traveled by the two animals over time $t$ from start to finish?$\\phantom{h}$\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B",
+    "image": "images/2757.jpg"
+  },
+  "2758": {
+    "id": "2758",
+    "question": "There are 81 grid points (uniformly spaced) in the square shown in the diagram below, including the points on the edges. Point $P$ is the center of the square. Given that point $Q$ is randomly chosen from among the other 80 points, what is the probability that line $PQ$ is a line of symmetry for the square?\n<image1>",
+    "options": [
+      "$\\frac{1}{5}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{2}{5}$",
+      "$\\frac{9}{20}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": "C",
+    "image": "images/2758.jpg"
+  },
+  "2759": {
+    "id": "2759",
+    "question": "The diagram shows the number of students at soccer practice each weekday during last week. After computing the mean and median values, Coach discovers that there were actually $21$ participants on Wednesday. Which of the following statements describes the change in the mean and median after the correction is made?\n\n<image1>",
+    "options": [
+      "$\\text{The mean increases by 1 and the median does not change.}$",
+      "$\\text{The mean increases by 1 and the median increases by 1.}$",
+      "$\\text{The mean increases by 1 and the median increases by 5.}$",
+      "$\\text{The mean increases by 5 and the median increases by 1.}$",
+      "$\\text{The mean increases by 5 and the median increases by 5.}$"
+    ],
+    "answer": "B",
+    "image": "images/2759.jpg"
+  },
+  "2760": {
+    "id": "2760",
+    "question": "The faces of a cube are painted in six different colors: red (R), white (W), green (G), brown (B), aqua (A), and purple (P). Three views of the cube are shown below. What is the color of the face opposite the aqua face?\n<image1>",
+    "options": [
+      "$\\text{red}$",
+      "$\\text{white}$",
+      "$\\text{green}$",
+      "$\\text{brown}$",
+      "$\\text{purple}\n$"
+    ],
+    "answer": "A",
+    "image": "images/2760.jpg"
+  },
+  "2765": {
+    "id": "2765",
+    "question": "There are $20$ cities in the County of Newton. Their populations are shown in the bar chart below. The average population of all the cities is indicated by the horizontal dashed line. Which of the following is closest to the total population of all $20$ cities?\n\n<image1>",
+    "options": [
+      "65{,}000",
+      "75{,}000",
+      "85{,}000",
+      "95{,}000",
+      "105{,}000"
+    ],
+    "answer": "D",
+    "image": "images/2765.jpg"
+  },
+  "2769": {
+    "id": "2769",
+    "question": "When a positive integer $N$ is fed into a machine, the output is a number calculated according to the rule shown below.\n<image1>\n\nFor example, starting with an input of $N = 7$, the machine will output $3 \\cdot 7 + 1 = 22$. Then if the output is repeatedly inserted into the machine five more times, the final output is $26$. $$ 7 \\to 22 \\to 11 \\to 34  \\to 17 \\to 52 \\to 26$$When the same 6-step process is applied to a different starting value of $N$, the final output is $1$. What is the sum of all such integers $N$? $$ N \\to \\_\\_ \\to \\_\\_ \\to \\_\\_  \\to \\_\\_ \\to \\_\\_  \\to 1$$",
+    "options": [
+      "73",
+      "74",
+      "75",
+      "82",
+      "83"
+    ],
+    "answer": "E",
+    "image": "images/2769.jpg"
+  },
+  "2770": {
+    "id": "2770",
+    "question": "A large square region is paved with $n^2$ gray square tiles, each measuring $s$ inches on a side. A border $d$ inches wide surrounds each tile. The figure below shows the case for $n = 3$. When $n = 24$, the $576$ gray tiles cover $64\\%$ of the area of the large square region. What is the ratio $\\frac{d}{s}$ for this larger value of $n$?\n\n<image1>",
+    "options": [
+      "$\\frac{6}{25}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{9}{25}$",
+      "$\\frac{7}{16}$",
+      "$\\frac{9}{16}$"
+    ],
+    "answer": "A",
+    "image": "images/2770.jpg"
+  },
+  "2773": {
+    "id": "2773",
+    "question": "The letter M in the figure below is first reflected over the line $q$ and then reflected over the line $p$. What is the resulting image?\n<image1>\n\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2773.jpg"
+  },
+  "2774": {
+    "id": "2774",
+    "question": "One sunny day, Ling decided to take a hike in the mountains. She left her house at $8 \\, \\textsc{am}$, drove at a constant speed of $45$ miles per hour, and arrived at the hiking trail at $10 \\, \\textsc{am}$. After hiking for $3$ hours, Ling drove home at a constant speed of $60$ miles per hour. Which of the following graphs best illustrates the distance between Ling's car and her house over the course of her trip?\n\n<image1>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2774.jpg"
+  },
+  "2775": {
+    "id": "2775",
+    "question": "The arrows on the two spinners shown below are spun. Let the number $N$  equal 10 times the number on Spinner $A$, added to the number on Spinner $B$. What is the probability that $N$ is a perfect square number?\n<image1>",
+    "options": [
+      "$\\frac{1}{16}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{3}{8}$",
+      "$\\frac{1}{2} $"
+    ],
+    "answer": "B",
+    "image": "images/2775.jpg"
+  },
+  "2782": {
+    "id": "2782",
+    "question": "A square piece of paper is folded twice into four equal quarters, as shown below, then cut along the dashed line. When unfolded, the paper will match which of the following figures?\n<image1>\n<image2>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "E",
+    "image": "images/2782.jpg"
+  },
+  "2787": {
+    "id": "2787",
+    "question": "The figure below shows a large white circle with a number of smaller white and shaded circles in its interior. What fraction of the interior of the large white circle is shaded?\n<image1>",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{11}{36}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{19}{36}$",
+      "$\\frac{5}{9}$"
+    ],
+    "answer": "B",
+    "image": "images/2787.jpg"
+  },
+  "2789": {
+    "id": "2789",
+    "question": "The letters $P$, $Q$, and $R$ are entered in a $20\\times 20$ grid according to the pattern shown below. How many $P$s, $Q$s, and $R$s will appear in the completed table?\n\n<image1>",
+    "options": [
+      "$132~\\text{Ps}, 134~\\text{Qs}, 134~\\text{Rs}$",
+      "$133~\\text{Ps}, 133~\\text{Qs}, 134~\\text{Rs}$",
+      "$133~\\text{Ps}, 134~\\text{Qs}, 133~\\text{Rs}$",
+      "$134~\\text{Ps}, 132~\\text{Qs}, 134~\\text{Rs}$",
+      "$134~\\text{Ps}, 133~\\text{Qs}, 133~\\text{Rs}$"
+    ],
+    "answer": "C",
+    "image": "images/2789.jpg"
+  },
+  "2791": {
+    "id": "2791",
+    "question": "An equilateral triangle is placed inside a larger equilateral triangle so that the region between them can be divided into three congruent trapezoids, as shown below. The side length of the inner triangle is $\\frac{2}{3}$ the side length of the larger triangle. What is the ratio of the area of one trapezoid to the area of the inner triangle?\n<image1>",
+    "options": [
+      "1:3",
+      "3:8",
+      "5:12",
+      "7:16",
+      "4:9"
+    ],
+    "answer": "C",
+    "image": "images/2791.jpg"
+  },
+  "2792": {
+    "id": "2792",
+    "question": "Each square in a $3 \\times 3$ grid is randomly filled with one of the $4$ gray-and-white tiles shown below on the right.<image1>\nWhat is the probability that the tiling will contain a large gray diamond in one of the smaller $2\\times 2$ grids? Below is an example of one such tiling.\n<image2>",
+    "options": [
+      "$\\frac{1}{1024}$",
+      "$\\frac{1}{256}$",
+      "$\\frac{1}{64}$",
+      "$\\frac{1}{16}$",
+      "$\\frac{1}{4}$"
+    ],
+    "answer": "C",
+    "image": "images/2792.jpg"
+  }
+}
