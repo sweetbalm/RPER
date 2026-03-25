@@ -4,53 +4,22 @@ import json
 import torch
 from PIL import Image
 from datasets import Dataset
+from typing import Optional
 
 
 def build_prompt_from_sample(sample):
     question = sample["question"]
-    choices = sample["options"]
+    choices = sample["choices"]
     options = "\n".join([f"{chr(65 + i)}. {c}" for i, c in enumerate(choices)])
     prompt_text = (
         f"{question}\nOptions:\n{options}\n"
-        "Please reason step by step. "
-        "Rules for reasoning:\n"
-        "1. Be extremely concise and use telegraphic style (omit non-essential words).\n"
-        "2. DO NOT describe the image content unless necessary.\n"
-        "3. DO NOT restate the question.\n"
+        "Please reason step by step."
         "After reasoning, provide the final answer in the format: 'So the answer is X.'."
     )
     return prompt_text
 
 
-def get_one_sample(data_dir="/storage/hujiacong/gh/datasets/mathvision", split="test.json"):
-    with open(os.path.join(data_dir, split)) as f:
-        problems = json.load(f)
-
-    p = problems['854']
-    image_path = os.path.join(data_dir, p['image'])
-    if not os.path.exists(image_path):
-        print(f"{image_path} does not exist")
-    img = Image.open(image_path).convert("RGB")
-    prompt_text = build_prompt_from_sample(p)
-
-    conversation = [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "image",
-                    "image": img,
-                },
-                {"type": "text", "text": prompt_text}
-            ]
-        }
-    ]
-
-    sample = {"messages": conversation, "answer": p["answer"], "image": img}
-    return sample
-
-
-def load_dataset(data_dir="/storage/hujiacong/gh/datasets/mathvision", split="train.json", num_samples=None):
+def load_train(data_dir, split="train.json", num_samples=None):
     with open(os.path.join(data_dir, split)) as f:
         ps = json.load(f)
 
@@ -82,7 +51,8 @@ def load_dataset(data_dir="/storage/hujiacong/gh/datasets/mathvision", split="tr
         })
     return Dataset.from_list(samples)
 
-def load_test(data_dir="/storage/hujiacong/gh/datasets/mathvision", split="test.json", num_samples=None):
+
+def load_test(data_dir, split="test.json", num_samples=None):
     with open(os.path.join(data_dir, split)) as f:
         ps = json.load(f)
 
@@ -117,26 +87,63 @@ def load_test(data_dir="/storage/hujiacong/gh/datasets/mathvision", split="test.
     return samples
 
 
-def parse_answer(response) -> str:
-    # 查找最后一个独立出现的大写字母（A-D）
+def parse_answer(response: str, mode: str = "regex", client=None, model: str = "gpt-3.5-turbo") -> str:
+    if mode == "llm" and client:
+      try:
+          prompt = f"Please extract the final multiple-choice answer from the following text. Return only the single letter (e.g., A, B, C or D) and nothing else:\n\n{response}"
+          
+          completion = client.chat.completions.create(
+              model=model,
+              messages=[
+                  {"role": "system", "content": "You are a helpful assistant that extracts single-letter multiple-choice answers."},
+                  {"role": "user", "content": prompt}
+              ],
+              temperature=0
+          )
+          
+          llm_result = completion.choices[0].message.content.strip()
+          matches = re.findall(r'[A-D]', llm_result.upper())
+          return matches[0] if matches else ""
+          
+      except Exception as e:
+          print(f"LLM extraction failed: {e}. Falling back to regex extraction.")
+
     matches = re.findall(r'\b[A-D]\b', response)
     if matches:
         return matches[-1]
+    
     return ""
 
 
 def sqa_reward_func(completions, answer, **kwargs):
+    mode = kwargs.get("mode", "regex")
+    client = kwargs.get("client", None)
+    model = kwargs.get("model", "gpt-3.5-turbo")
+    
     rewards = []
+    
     for comp, ans in zip(completions, answer):
         if isinstance(comp, list) and len(comp) > 0:
             content = comp[0].get("content", "")
+        elif isinstance(comp, dict):
+            content = comp.get("content", "")
         else:
-            content = ""
+            content = str(comp)
+            
         reward = 0.0
-        matches = re.findall(r'\b([A-D])\b', content)
-        if matches and matches[-1] == ans:
+
+        extracted_ans = parse_answer(
+            response=content, 
+            mode=mode, 
+            client=client, 
+            model=model
+        )
+        
+        if extracted_ans == ans:
             reward = 1.0
+            
         rewards.append(reward)
+        
     return rewards
 
 
@@ -277,7 +284,7 @@ def compute_token_entropy(logits, response_positions):
 def get_vision_token_range(input_ids):
     vision_start_id = 151652
     vision_end_id = 151653
-    
+
     pmt = input_ids[0]
     
     start_indices = torch.where(pmt == vision_start_id)[0]
