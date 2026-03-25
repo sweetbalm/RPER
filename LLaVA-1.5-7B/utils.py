@@ -14,6 +14,7 @@ def build_prompt_from_sample(sample):
     prompt_text = (
         f"{question}\nOptions:\n{options}\n"
         "Please reason step by step."
+        "You MUST enclose your reasoning process inside <think> and </think> tags."
         "After reasoning, provide the final answer in the format: 'So the answer is X.'."
     )
     return prompt_text
@@ -149,6 +150,7 @@ def sqa_reward_func(completions, answer, **kwargs):
 
 def reason_reward_func(completions, **kwargs):
     rewards = []
+    pattern_think = r"<think>(.*?)</think>"
     pattern_answer = r"So the answer is [A-Z]\.$"
 
     for comp in completions:
@@ -158,12 +160,17 @@ def reason_reward_func(completions, **kwargs):
         elif isinstance(comp, list) and len(comp) > 0:
             content = comp[0].get("content", "")
 
+        match_think = re.search(pattern_think, content, re.DOTALL)
         match_answer = re.search(pattern_answer, content.strip())
 
         score = 0.0
 
-        if len(content) > 30:
-            score += 0.5
+        if match_think:
+            think_content = match_think.group(1).strip()
+            if len(think_content) > 30:
+                score += 0.5
+            else:
+                score += 0.1
         else:
             score -= 0.5
 
@@ -281,19 +288,8 @@ def compute_token_entropy(logits, response_positions):
     return entropy_full[response_positions]
 
 
-def get_vision_token_range(input_ids):
-    vision_start_id = 151652
-    vision_end_id = 151653
-
-    pmt = input_ids[0]
-    
-    start_indices = torch.where(pmt == vision_start_id)[0]
-    end_indices = torch.where(pmt == vision_end_id)[0]
-    
-    if len(start_indices) == 0 or len(end_indices) == 0:
-        raise ValueError("Could not find vision start/end tokens in the input_ids")
-    
-    v_start = start_indices[0].item()
-    v_end = end_indices[0].item()
-    
-    return v_start, v_end
+def get_vision_token_range(prompt_ids, image_token_id=32000, num_image_tokens=576):
+    image_start = torch.where(prompt_ids[0] == image_token_id)[0]
+    vision_start = image_start[0].item()
+    vision_end = vision_start + num_image_tokens
+    return vision_start, vision_end
