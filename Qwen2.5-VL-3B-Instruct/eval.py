@@ -7,7 +7,7 @@ from qwen_vl_utils import process_vision_info
 
 
 model_path = "..."
-data_dir = "/datasets/..."
+data_dir = "../datasets/..."
 
 
 processor = AutoProcessor.from_pretrained(

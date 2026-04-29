@@ -12,7 +12,7 @@ from trl import GRPOConfig, GRPOTrainer
 
 model_path = "..."
 output_dir = "..."
-data_dir = "/datasets/..."
+data_dir = "../datasets/..."
 
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
     model_path, dtype=torch.bfloat16, device_map="auto"

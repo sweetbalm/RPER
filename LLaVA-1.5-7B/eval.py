@@ -8,7 +8,7 @@ from utils import *
 
 
 model_path = "..."
-data_dir = "/datasets/..."
+data_dir = "../datasets/..."
 
 
 processor = AutoProcessor.from_pretrained(model_path)

@@ -10,7 +10,7 @@ from trl import GRPOConfig, GRPOTrainer
 
 model_path = "..."
 output_dir = "..."
-data_dir = "..."
+data_dir = "../datasets/..."
 
 model = LlavaForConditionalGeneration.from_pretrained(
     model_path,
